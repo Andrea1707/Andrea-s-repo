@@ -1,0 +1,35 @@
+
+Homework#33 for 2017-11-30,  due 2017-12-01, end of day
+
+Code.org using loops for the turtle programming with their "App Lab" language
+
+https://studio.code.org/s/csp3/stage/9/puzzle/3
+
+When your program is complete, click on the middle-right button "</> show text".
+Copy your program code into a file in your student repo.
+
+
+FOR TOMORROW CLASS:
+
+1) Read the attached pdf's. Starting tomorrow we will begin the first formal part of
+the AP exam hands-on requirements, called Performance Tasks. Fortunately, for the
+first one, called "Explore," we have already done some preliminary work in our
+class with our own PT1 a couple of months back.
+
+ap-csp-student-task-directions.pdf  -> your overview
+
+computer-science-principles-digital-portfolio-teacher-guide.pdf  -> how the teacher manages the site
+
+2) Make sure you have access to the Digital Portfolio site and review it's content:
+
+https://digitalportfolio.collegeboard.org
+
+3) Make sure you are familiar with the content on the main AP CS resources site:
+
+https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam?course=ap-computer-science-principles
+
+(most important are the scoring examples at the bottom of the page)
+
+4) There is also a main page for AP CS resources. Nothing in particular needed for tomorrow:
+
+https://apcentral.collegeboard.org/courses/ap-computer-science-principles?course=ap-computer-science-principles

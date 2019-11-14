@@ -1,0 +1,16 @@
+2.a
+The language we programed in was Javascript.
+
+The purpose was to give a number zero to four and draw stars.
+
+When you open turtle and you type in 0-4 stars in random colors is what you will see.
+
+2.b
+We gave different jobs to each member. Andrea made the script for how many stars you would like. Kohdai made the process of drawing the star. I made the “for” loop for draw different stars.
+
+2.d
+function Kahla_Function(n) {
+  for (var i = 0; i < n; i++) {
+  Kohdai_function();
+  }
+}

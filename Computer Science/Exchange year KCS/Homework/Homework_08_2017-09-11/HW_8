@@ -1,0 +1,15 @@
+41.Name and describe three technologies for connecting a home
+computer to the Internet.
+  Lan= all computers are connected at the same line
+  Star=all computers are connected to the master who direct the information at the other computer.
+  Ring= most expensive all computer are connected and they have a 2 ways one in input and one in output for more speed
+
+44.Phone modems and digital subscriber lines (DSL) use the same kind
+of phone line to transfer data. Why is DSL so much faster than phone modems?
+Because the DSL are connected via cable and the phone line are via satellite.
+
+46.Messages sent across the Internet are divided into packets.
+   What is a packet, and why are messages divided into them?
+  A packet is a information who go in the internet line, we use this type of communication because it's more faster and we can if the data is grander we can divide the data in different packages.
+50.What problems arise due to packet switching?
+  If the line are slow maybe many packets can be lost.

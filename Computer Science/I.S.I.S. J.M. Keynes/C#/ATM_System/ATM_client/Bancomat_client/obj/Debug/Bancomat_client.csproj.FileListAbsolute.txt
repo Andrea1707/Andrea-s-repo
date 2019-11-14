@@ -1,0 +1,21 @@
+C:\Users\Andrea\source\repos\Bancomat_client\Bancomat_client\bin\Debug\Bancomat_client.exe.config
+C:\Users\Andrea\source\repos\Bancomat_client\Bancomat_client\bin\Debug\Bancomat_client.exe
+C:\Users\Andrea\source\repos\Bancomat_client\Bancomat_client\bin\Debug\Bancomat_client.pdb
+C:\Users\Andrea\source\repos\Bancomat_client\Bancomat_client\obj\Debug\Bancomat_client.csprojAssemblyReference.cache
+C:\Users\Andrea\source\repos\Bancomat_client\Bancomat_client\obj\Debug\Bancomat_client.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\Bancomat_client\Bancomat_client\obj\Debug\Bancomat_client.exe
+C:\Users\Andrea\source\repos\Bancomat_client\Bancomat_client\obj\Debug\Bancomat_client.pdb
+C:\Users\Public\Documents\Pong\Bancomat\Bancomat_client\Bancomat_client\bin\Debug\Bancomat_client.exe.config
+C:\Users\Public\Documents\Pong\Bancomat\Bancomat_client\Bancomat_client\bin\Debug\Bancomat_client.exe
+C:\Users\Public\Documents\Pong\Bancomat\Bancomat_client\Bancomat_client\bin\Debug\Bancomat_client.pdb
+C:\Users\Public\Documents\Pong\Bancomat\Bancomat_client\Bancomat_client\obj\Debug\Bancomat_client.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Pong\Bancomat\Bancomat_client\Bancomat_client\obj\Debug\Bancomat_client.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Pong\Bancomat\Bancomat_client\Bancomat_client\obj\Debug\Bancomat_client.exe
+C:\Users\Public\Documents\Pong\Bancomat\Bancomat_client\Bancomat_client\obj\Debug\Bancomat_client.pdb
+C:\Users\Public\Documents\Computer Science Projects\TePi\Bancomat\Bancomat_client\Bancomat_client\bin\Debug\Bancomat_client.exe.config
+C:\Users\Public\Documents\Computer Science Projects\TePi\Bancomat\Bancomat_client\Bancomat_client\bin\Debug\Bancomat_client.exe
+C:\Users\Public\Documents\Computer Science Projects\TePi\Bancomat\Bancomat_client\Bancomat_client\bin\Debug\Bancomat_client.pdb
+C:\Users\Public\Documents\Computer Science Projects\TePi\Bancomat\Bancomat_client\Bancomat_client\obj\Debug\Bancomat_client.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Computer Science Projects\TePi\Bancomat\Bancomat_client\Bancomat_client\obj\Debug\Bancomat_client.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Computer Science Projects\TePi\Bancomat\Bancomat_client\Bancomat_client\obj\Debug\Bancomat_client.exe
+C:\Users\Public\Documents\Computer Science Projects\TePi\Bancomat\Bancomat_client\Bancomat_client\obj\Debug\Bancomat_client.pdb

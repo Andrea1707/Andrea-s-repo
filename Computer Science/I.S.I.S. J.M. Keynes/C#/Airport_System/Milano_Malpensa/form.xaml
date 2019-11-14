@@ -1,0 +1,37 @@
+﻿<UserControl x:Class="Milano_Malpensa.form"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Milano_Malpensa"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Register" Grid.Column="1" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBox Name="tb_lastname" Text="Last name" Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10,34,0,30" Width="81"/>
+        <TextBox Name="tb_firstname" Text="First name" Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="107,34,77,30" Width="82"/>
+        <Label Content="Nominativo:" Grid.Column="0" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+        <Label Content="Data di nascita:" Grid.Column="0" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+        <DatePicker Name="Date_picker" Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10,36,0,28" Height="25"/>
+        <Label Content="Nazionalita:" Grid.Column="0" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+        <TextBox Name="tb_nationality" Text="Nationality" Grid.Column="1" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10,36,0,28" Width="81"/>
+
+
+        <Button Name="bt_add" Grid.Column="2" Grid.Row="4" Content="Submit" VerticalAlignment="Center" HorizontalAlignment="Center" Height="25" Width="70" Click="Bt_add_Click"/>
+
+
+    </Grid>
+</UserControl>

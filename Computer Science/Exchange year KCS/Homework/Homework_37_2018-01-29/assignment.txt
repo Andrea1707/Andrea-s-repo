@@ -1,0 +1,15 @@
+Homework#37 for 2018-01-29 due end of day
+
+Code.org about free services and privacy implications
+https://studio.code.org/s/csp4/stage/4/puzzle/1
+
+(in-class)
+Discuss data collection and use from free sites - Look at some examples
+
+(homework)
+Review the included article
+"Article_ It's Modern Trade_ Web Users Get as Much as They Give.pdf"
+
+And then complete the Activity Guide - Privacy Policies:
+Submit your answers as a TEXT file in your Github student repo to the included pdf
+"U4L04 Activity Guide - Privacy Policies.pdf"

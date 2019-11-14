@@ -1,0 +1,432 @@
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\bin\Debug\Snake.exe
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\bin\Debug\Snake.pdb
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\MainWindow.baml
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\MainWindow.g.cs
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\App.g.cs
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake.g.resources
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake.exe
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake.pdb
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Menu.baml
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Menu.g.cs
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Gioco.baml
+\\spazio\profili_studenti$\5biinf01\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Gioco.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\bin\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\bin\Debug\Snake.pdb
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Classifica.baml
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Gioco.baml
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\MainWindow.baml
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Menu.baml
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Classifica.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Gioco.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\MainWindow.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Menu.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\App.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Snake.g.resources
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Gioco\Snake\Snake\Snake\obj\Debug\Snake.pdb
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\bin\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\bin\Debug\Snake.pdb
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Classifica.baml
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Gioco.baml
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\MainWindow.baml
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Menu.baml
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Classifica.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Gioco.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\MainWindow.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Menu.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\App.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Snake.g.resources
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Gioco\Snake 2.0\Snake\Snake\Snake\obj\Debug\Snake.pdb
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\Snake.exe
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\Snake.pdb
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\bin\Debug\Snake.exe
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\bin\Debug\Snake.pdb
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\Classifica.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\Gioco.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\MainWindow.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\Menu.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\Classifica.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\Gioco.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\MainWindow.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\Menu.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\App.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\Snake.g.resources
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.1\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\bin\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\bin\Debug\Snake.pdb
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Classifica.baml
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Gioco.baml
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\MainWindow.baml
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Menu.baml
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Classifica.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Gioco.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\MainWindow.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Menu.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\App.g.cs
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Snake.g.resources
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Gioco\Snake 2.2\Snake 2.2\Snake\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Classifica.baml
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Gioco.baml
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\MainWindow.baml
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Menu.baml
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Classifica.g.cs
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Gioco.g.cs
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\MainWindow.g.cs
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Menu.g.cs
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\App.g.cs
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Snake.g.resources
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Riccardo\Desktop\Snake\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Classifica.baml
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Gioco.baml
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\MainWindow.baml
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Menu.baml
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Classifica.g.cs
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Gioco.g.cs
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\MainWindow.g.cs
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Menu.g.cs
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\App.g.cs
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Snake.g.resources
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\fx\Desktop\Snake 2.3.1\Snake\Snake\obj\Debug\Snake.pdb
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\bin\Debug\Snake.exe.config
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\Snake.exe
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\Snake.pdb
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\bin\Debug\Snake.exe
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\bin\Debug\Snake.pdb
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\Classifica.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\Gioco.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\MainWindow.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\Menu.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\Classifica.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\Gioco.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\MainWindow.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\Menu.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\App.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\Snake.g.resources
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.2\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\bin\Debug\Snake.exe.config
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\Snake.exe
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\Classifica.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\Gioco.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\MainWindow.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\Menu.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\Classifica.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\Gioco.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\MainWindow.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\Menu.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\App.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\Snake.g.resources
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\bin\Debug\Snake.exe
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\bin\Debug\Snake.pdb
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 2.3.3\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Riccardo\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Riccardo\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Riccardo\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Classifica.baml
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Gioco.baml
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\MainWindow.baml
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Menu.baml
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Classifica.g.cs
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Gioco.g.cs
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\MainWindow.g.cs
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Menu.g.cs
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\App.g.cs
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Snake.g.resources
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Riccardo\Desktop\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Classifica.baml
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Gioco.baml
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\MainWindow.baml
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Menu.baml
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Classifica.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Gioco.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\MainWindow.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Menu.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\App.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Snake_MarkupCompile.cache
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Snake.g.resources
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Snake.exe
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\obj\Debug\Snake.pdb
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\bin\Debug\Snake.exe.config
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\bin\Debug\Snake.exe
+C:\Users\Riccardo\Desktop\Snake 2.3.3\Snake\bin\Debug\Snake.pdb
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\bin\Debug\Snake.exe.config
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\bin\Debug\Snake.exe
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\bin\Debug\Snake.pdb
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Classifica.baml
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Gioco.baml
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\MainWindow.baml
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Menu.baml
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Classifica.g.cs
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Gioco.g.cs
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\MainWindow.g.cs
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Menu.g.cs
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\App.g.cs
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Snake_MarkupCompile.cache
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Snake.g.resources
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Snake.exe
+C:\Users\gabri\Desktop\Snake 2.3.3tmp\Snake 2.3.3\Snake\obj\Debug\Snake.pdb
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\bin\Debug\Snake.exe.config
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\bin\Debug\Snake.exe
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\bin\Debug\Snake.pdb
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Classifica.baml
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Gioco.baml
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\MainWindow.baml
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Menu.baml
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Classifica.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Gioco.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\MainWindow.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Menu.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\App.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Snake_MarkupCompile.cache
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Snake.g.resources
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Snake.exe
+C:\Users\Riccardo\Desktop\Snake 2.4.0\Snake\obj\Debug\Snake.pdb
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\bin\Debug\Snake.exe.config
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\bin\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\bin\Debug\Snake.pdb
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Classifica.baml
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Gioco.baml
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\MainWindow.baml
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Menu.baml
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Classifica.g.cs
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Gioco.g.cs
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\MainWindow.g.cs
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Menu.g.cs
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\App.g.cs
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Snake_MarkupCompile.cache
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Snake.g.resources
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Snake.Properties.Resources.resources
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Snake 2.4.1\Snake 2.4.1\Snake\obj\Debug\Snake.pdb
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\bin\Debug\Snake.exe.config
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\bin\Debug\Snake.exe
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\bin\Debug\Snake.pdb
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Classifica.baml
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Gioco.baml
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\MainWindow.baml
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Menu.baml
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Classifica.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Gioco.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\MainWindow.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Menu.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\App.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Snake_MarkupCompile.cache
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Snake.g.resources
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Snake.exe
+C:\Users\Riccardo\Desktop\Snake 2.4.1\Snake\obj\Debug\Snake.pdb
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\bin\Debug\Snake.exe.config
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\bin\Debug\Snake.exe
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\bin\Debug\Snake.pdb
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Classifica.baml
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Gioco.baml
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\MainWindow.baml
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Menu.baml
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Classifica.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Gioco.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\MainWindow.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Menu.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\App.g.cs
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Snake_MarkupCompile.cache
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Snake.g.resources
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Snake.exe
+C:\Users\Riccardo\Desktop\Snake 2.5\Snake\obj\Debug\Snake.pdb
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Classifica.baml
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Gioco.baml
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\MainWindow.baml
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Menu.baml
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Classifica.g.cs
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Dati.g.cs
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Gioco.g.cs
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\ListItem.g.cs
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\MainWindow.g.cs
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Menu.g.cs
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\App.g.cs
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Snake_MarkupCompile.cache
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Snake_MarkupCompile.lref
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Snake.pdb
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\bin\Debug\Snake.exe.config
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\bin\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\bin\Debug\Snake.pdb
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Dati.baml
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\ListItem.baml
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Snake.g.resources
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Snake.Properties.Resources.resources
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+X:\Users\Alessio\Desktop\Snake 2.5.1\Snake 2.5.1\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\bin\Debug\Snake.exe.config
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\bin\Debug\Snake.exe
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\bin\Debug\Snake.pdb
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Classifica.baml
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Gioco.baml
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\MainWindow.baml
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Menu.baml
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Classifica.g.cs
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Dati.g.cs
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Gioco.g.cs
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\ListItem.g.cs
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\MainWindow.g.cs
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Menu.g.cs
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\App.g.cs
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Snake_MarkupCompile.cache
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Snake_MarkupCompile.lref
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Dati.baml
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\ListItem.baml
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Snake.g.resources
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Snake.exe
+D:\Users\Utente\Documents\Visual Studio 2017\Projects\Snake 2.5.1 lv\Snake 2.5.1\Snake\obj\Debug\Snake.pdb
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\bin\Debug\Snake.exe.config
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\bin\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\bin\Debug\Snake.pdb
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Classifica.baml
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Gioco.baml
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\MainWindow.baml
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Menu.baml
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Classifica.g.cs
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Dati.g.cs
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Gioco.g.cs
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\MainWindow.g.cs
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Menu.g.cs
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\App.g.cs
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Snake_MarkupCompile.cache
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Snake_MarkupCompile.lref
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Dati.baml
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Snake.g.resources
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Snake.Properties.Resources.resources
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Snake 2.6 by TiaUbisoft\Snake 2.6\Snake 2.5.1\Snake\obj\Debug\Snake.pdb
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\bin\Debug\Snake.exe.config
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\bin\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\bin\Debug\Snake.pdb
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Classifica.baml
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Gioco.baml
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\MainWindow.baml
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Menu.baml
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Classifica.g.cs
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Dati.g.cs
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Gioco.g.cs
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\MainWindow.g.cs
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Menu.g.cs
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\App.g.cs
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Snake_MarkupCompile.cache
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Snake_MarkupCompile.lref
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Dati.baml
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Snake.g.resources
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Snake.Properties.Resources.resources
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Snake.exe
+X:\Users\Alessio\Desktop\Snake 10.0!\Snake\obj\Debug\Snake.pdb
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\bin\Debug\Snake.exe.config
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Snake.exe
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Snake.pdb
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Classifica.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Gioco.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\MainWindow.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Menu.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Classifica.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Dati.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Gioco.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\MainWindow.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Menu.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\App.g.cs
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Snake_MarkupCompile.cache
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Snake_MarkupCompile.lref
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\bin\Debug\Snake.exe
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\bin\Debug\Snake.pdb
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Dati.baml
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Snake.g.resources
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Snake.Properties.Resources.resources
+\\spazio\profili_studenti$\5biinf01\Desktop\Snake 10.0!\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache

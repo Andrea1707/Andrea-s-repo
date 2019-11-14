@@ -1,0 +1,7 @@
+What does this program do?
+1.Start
+2.Move right hand to position 7
+3.Swap cards
+4.Shift left hand to the right
+5.Shift right hand to the left
+6.jump to line 2 if()

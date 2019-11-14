@@ -1,0 +1,23 @@
+Homework#23 for 2017-10-25,  due 2017-10-27, end of day
+
+In class, we'll start making observations about data and create our own
+data visualizations.
+
+Make sure you're logged into Google website with your KCS email account.
+
+This is the datasets used for this section:
+https://drive.google.com/drive/folders/0B6iNirqJ5EuVbUZURElxLUZzdU0
+
+We'll complete the activity described in the included *.pdf file. Here's an online
+link to the same file:
+https://docs.google.com/document/d/1UjKC6300gXuBVQbax38SS3-iaj0-C7sKXUgr7QyCR2s/
+
+Students will work in 2-3 member group on one of the datasets. Each student
+needs to submit a full copy of the assignment in their own student repo
+
+Provide written (in a text file in your student repo) answers to the 3 questions
+at the end of the pdf
+
+On Friday, we'll review in class each group's submissions. This will be informal
+and not require students to present in front of the class, just make informal
+questions and answers as we review their results.

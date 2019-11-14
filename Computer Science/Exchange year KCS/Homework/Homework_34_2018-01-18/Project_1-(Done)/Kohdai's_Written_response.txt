@@ -1,0 +1,28 @@
+Students written response
+
+2a, 　◦The programing languages is Javascript.
+      　
+　　　◦the purpose was to give a number 0-4 and stars.　　　
+
+      ◦when you open turtle and you type 0-4 stars in random colors is what you will look at.
+
+2b,  ◦we gave different jobs to each member. The italy man of our group, who is Andrea made the script for how many stars you would like. The japanese man of our group, who is Kohdai made the process of drawing the star. The american student of our group, who is Makahla made the “for” loop for different stars.
+
+
+2d, ◦
+function Kohdai_function() {
+  var r=randomNumber(0, 254),g=randomNumber(0, 254),b=randomNumber(0, 254);
+  penUp();
+  moveForward(100);
+  turnLeft(90);
+  penDown();
+  penColor(rgb(r, g, b));
+  penWidth(1);
+for (var i = 0; i < 50; i++) {
+      moveForward(50);
+      turnRight(144);
+    }
+    r=0;
+    g=0;
+    b=0;
+}

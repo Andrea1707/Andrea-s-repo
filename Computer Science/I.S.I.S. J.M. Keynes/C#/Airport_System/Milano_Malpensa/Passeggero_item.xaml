@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="Milano_Malpensa.Passeggero_item"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Milano_Malpensa"
+             mc:Ignorable="d" 
+             >
+    <WrapPanel VerticalAlignment="Center">
+        <Label Name="lb_nationality" Content="Nationality" VerticalAlignment="Center"/>
+        <Label Name="lb_last_name" Content="Last Name" VerticalAlignment="Center"/>
+        <Label Name="lb_first_name" Content="first Name" VerticalAlignment="Center"/>
+        <Label Name="lb_compleanno" Content="Compleanno" VerticalAlignment="Center"/>
+
+
+    </WrapPanel>
+</UserControl>

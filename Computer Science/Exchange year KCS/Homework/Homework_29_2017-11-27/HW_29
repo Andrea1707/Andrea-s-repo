@@ -1,0 +1,133 @@
+(1) function turnAround() {
+    turnLeft();
+    turnLeft();
+    }
+    turnAround();
+    penDown();
+    moveForward();
+    penUp();
+(2)penDown();
+function turnAround(){
+  moveForward();
+  turnLeft();
+  turnLeft();
+  moveForward();
+}
+turnAround();
+turnAround();
+turnLeft();
+turnAround();
+turnAround();
+turnLeft();
+turnLeft();
+turnLeft();
+penUp();
+
+(3) penDown();
+moveForward();
+moveForward();
+function right(){
+  turnLeft();
+  turnLeft();
+  turnLeft();
+}
+right();
+moveForward();
+right();
+moveForward();
+moveForward();
+right();
+moveForward();
+right();
+penUp();
+(4)penDown();
+function drawDiamond() {
+  function drawSide() {
+    function drawStep(){
+      moveForward();
+      turnLeft();
+      moveForward();
+    }
+    drawStep();
+    function right(){
+      turnLeft();
+      turnLeft();
+      turnLeft();
+    }
+    right();
+    drawStep();
+    right();
+    drawStep();
+    right();
+    moveForward();
+    right();
+  }
+  drawSide();
+  drawSide();
+  drawSide();
+  drawSide();
+}
+drawDiamond();
+penDown();
+
+
+(5)penDown();
+function drawDiamond() {
+  function drawSide() {
+    function drawStep(){
+      moveForward();
+      turnLeft();
+      moveForward();
+    }
+    drawStep();
+    function right(){
+      turnLeft();
+      turnLeft();
+      turnLeft();
+    }
+    right();
+    drawStep();
+    right();
+    drawStep();
+    right();
+    moveForward();
+    right();
+  }
+  drawSide();
+  drawSide();
+  drawSide();
+  drawSide();
+}
+drawDiamond();
+penDown();
+
+
+(6)penDown();
+function drawDiamond() {
+  function drawSide() {
+    function drawStep(){
+      moveForward();
+      turnLeft();
+      moveForward();
+    }
+    drawStep();
+    function right(){
+      turnLeft();
+      turnLeft();
+      turnLeft();
+    }
+    right();
+    drawStep();
+    right();
+    drawStep();
+    right();
+    moveForward();
+    right();
+  }
+  drawSide();
+  drawSide();
+  drawSide();
+  drawSide();
+}
+drawDiamond();
+penDown();

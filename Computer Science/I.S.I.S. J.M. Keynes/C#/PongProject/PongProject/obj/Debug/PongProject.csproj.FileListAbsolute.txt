@@ -1,0 +1,73 @@
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\bin\Debug\PongProject.exe.config
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\bin\Debug\PongProject.exe
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\bin\Debug\PongProject.pdb
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\obj\Debug\PongProject.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\obj\Debug\MainWindow.baml
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\obj\Debug\App.g.cs
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\obj\Debug\PongProject_MarkupCompile.cache
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\obj\Debug\PongProject.g.resources
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\obj\Debug\PongProject.Properties.Resources.resources
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\obj\Debug\PongProject.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\obj\Debug\PongProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\obj\Debug\PongProject.exe
+C:\Users\Andrea\Desktop\PongProject-master\PongProject\obj\Debug\PongProject.pdb
+C:\Users\Public\Documents\CS\PongProject\PongProject\bin\Debug\PongProject.exe.config
+C:\Users\Public\Documents\CS\PongProject\PongProject\bin\Debug\PongProject.exe
+C:\Users\Public\Documents\CS\PongProject\PongProject\bin\Debug\PongProject.pdb
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\PongProject.csprojAssemblyReference.cache
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\MainWindow.baml
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\MainWindow.g.cs
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\App.g.cs
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\PongProject_MarkupCompile.cache
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\PongProject.g.resources
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\PongProject.Properties.Resources.resources
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\PongProject.csproj.GenerateResource.cache
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\PongProject.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\PongProject.exe
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\PongProject.pdb
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\game.g.cs
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\PongProject_MarkupCompile.lref
+C:\Users\Public\Documents\CS\PongProject\PongProject\obj\Debug\game.baml
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\bin\Debug\PongProject.exe.config
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\bin\Debug\PongProject.exe
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\bin\Debug\PongProject.pdb
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\MainWindow.baml
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\game.g.cs
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\MainWindow.g.cs
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\App.g.cs
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject_MarkupCompile.cache
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject_MarkupCompile.lref
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\game.baml
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.g.resources
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.Properties.Resources.resources
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.csproj.GenerateResource.cache
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.exe
+C:\Users\Public\Documents\Pong\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.pdb
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\bin\Debug\PongProject.exe.config
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\bin\Debug\PongProject.exe
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\bin\Debug\PongProject.pdb
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\MainWindow.baml
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\game.g.cs
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\MainWindow.g.cs
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\App.g.cs
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject_MarkupCompile.cache
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject_MarkupCompile.lref
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\game.baml
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.g.resources
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.Properties.Resources.resources
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.csproj.GenerateResource.cache
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.exe
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.pdb
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\login.g.cs
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\login.baml
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\Game_dashboard.g.cs
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\Game_dashboard.baml
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\dahs2.g.cs
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\dahs2.baml
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\Public\Documents\Computer Science Projects\Computer Science\PongProject By Andrea & Ale\PongProject\obj\Debug\PongProject.csproj.ResolveComReference.cache

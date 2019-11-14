@@ -1,0 +1,14 @@
+C:\Users\Andrea\source\repos\Superenalotto_Server\Superenalotto_Server\bin\Debug\Superenalotto_Server.exe.config
+C:\Users\Andrea\source\repos\Superenalotto_Server\Superenalotto_Server\bin\Debug\Superenalotto_Server.exe
+C:\Users\Andrea\source\repos\Superenalotto_Server\Superenalotto_Server\bin\Debug\Superenalotto_Server.pdb
+C:\Users\Andrea\source\repos\Superenalotto_Server\Superenalotto_Server\obj\Debug\Superenalotto_Server.csprojAssemblyReference.cache
+C:\Users\Andrea\source\repos\Superenalotto_Server\Superenalotto_Server\obj\Debug\Superenalotto_Server.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\Superenalotto_Server\Superenalotto_Server\obj\Debug\Superenalotto_Server.exe
+C:\Users\Andrea\source\repos\Superenalotto_Server\Superenalotto_Server\obj\Debug\Superenalotto_Server.pdb
+C:\Users\Andrea\source\repos\Superenalotto_Server_TCP\Superenalotto_Server\bin\Debug\Superenalotto_Server.exe.config
+C:\Users\Andrea\source\repos\Superenalotto_Server_TCP\Superenalotto_Server\bin\Debug\Superenalotto_Server.exe
+C:\Users\Andrea\source\repos\Superenalotto_Server_TCP\Superenalotto_Server\bin\Debug\Superenalotto_Server.pdb
+C:\Users\Andrea\source\repos\Superenalotto_Server_TCP\Superenalotto_Server\obj\Debug\Superenalotto_Server.csprojAssemblyReference.cache
+C:\Users\Andrea\source\repos\Superenalotto_Server_TCP\Superenalotto_Server\obj\Debug\Superenalotto_Server.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\Superenalotto_Server_TCP\Superenalotto_Server\obj\Debug\Superenalotto_Server.exe
+C:\Users\Andrea\source\repos\Superenalotto_Server_TCP\Superenalotto_Server\obj\Debug\Superenalotto_Server.pdb

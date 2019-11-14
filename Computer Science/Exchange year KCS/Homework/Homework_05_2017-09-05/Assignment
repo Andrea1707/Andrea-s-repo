@@ -1,0 +1,43 @@
+omework#5 for 2017-09-01,  due 2017-09-05
+
+Computer Science Illuminated - read pages 141-154
+
+On page 159, question #12, 15, 18, 26, 53, 63, 77
+
+
+PROJECT:
+
+1) Use Google Image Search with advanced settings:
+   https://www.google.com/advanced_image_search
+   In the field "all these words:" enter a search term that interests you
+   In the field "file type:" select "BMP files"
+
+2) Find ONE image for this project and download it to your computer.
+   It must have an *.bmp file name extension and type.
+   Store that file in your homework#5 directory.
+
+Question#1: What is the file's size?
+            (include units like bytes, kilobytes, megabytes)
+
+3) Open the file in a PHOTO EDITING application
+   (either the included editor in Windows/Mac or opensource GIMP)
+
+Question#2: What is the images's pixel dimension?
+            (like 1024x768)
+
+Question#3: What is the images's color depth?
+            (like 8bit, 16bit, 24bit)
+
+Question#4: How many MegaBytes total does the image use?
+            (width x height x color_depth) / (8 x 1024 x 1024)
+
+4) Save the file as a *.jpg
+
+Question#5: What is the new file's size?
+            (include units like bytes, kilobytes, megabytes)
+
+Question#6: What is the compression ratio between the *.bmp and *.jpg files?
+            (compressed / uncompressed) Indicate to 2 decimal places.
+
+5) Make sure both images, the *.bmp and *.jpg are in your homework#5 directory and
+   push the completed assignment to Github

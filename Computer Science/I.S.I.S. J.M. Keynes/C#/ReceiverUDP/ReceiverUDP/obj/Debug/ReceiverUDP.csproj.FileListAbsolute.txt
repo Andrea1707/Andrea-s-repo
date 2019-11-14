@@ -1,0 +1,11 @@
+\\spazio\profili_studenti$\5bitepi09\documents\visual studio 2012\Projects\ReceiverUDP\ReceiverUDP\bin\Debug\ReceiverUDP.exe.config
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\ReceiverUDP\ReceiverUDP\bin\Debug\ReceiverUDP.exe.config
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\ReceiverUDP\ReceiverUDP\bin\Debug\ReceiverUDP.exe
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\ReceiverUDP\ReceiverUDP\bin\Debug\ReceiverUDP.pdb
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\ReceiverUDP\ReceiverUDP\obj\Debug\ReceiverUDP.csprojAssemblyReference.cache
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\ReceiverUDP\ReceiverUDP\obj\Debug\ReceiverUDP.csproj.CoreCompileInputs.cache
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\ReceiverUDP\ReceiverUDP\obj\Debug\ReceiverUDP.exe
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\ReceiverUDP\ReceiverUDP\obj\Debug\ReceiverUDP.pdb
+\\spazio\profili_studenti$\5BITEPI13\Downloads\ReceiverUDP\ReceiverUDP\bin\Debug\ReceiverUDP.exe.config
+\\spazio\profili_studenti$\5BITEPI13\Downloads\ReceiverUDP\ReceiverUDP\obj\Debug\ReceiverUDP.exe
+\\spazio\profili_studenti$\5BITEPI13\Downloads\ReceiverUDP\ReceiverUDP\obj\Debug\ReceiverUDP.pdb

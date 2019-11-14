@@ -1,0 +1,18 @@
+Homework#35 for 2018-01-22 in-class
+
+Code.org starting unit#4
+
+https://studio.code.org/s/csp4/stage/1/puzzle/1
+
+We'll go over in-class the file:
+
+U4L01 Activity Guide - Big Data Sleuth Card.pdf
+
+http://www.archive.org/
+http://www.measureofamerica.org/maps/
+http://earth.nullschool.net/
+https://www.csc.ncsu.edu/faculty/healey/tweet_viz/tweet_app/
+http://www.afdc.energy.gov/locator/stations/
+
+Also, review the pdf about Moore's Law and growth of Big Data
+idc-the-digital-universe-in-2020.pdf

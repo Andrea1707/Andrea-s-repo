@@ -1,0 +1,7 @@
+C:\Users\Andrea\source\repos\Test_XML_Serializatore\Test_XML_Serializatore\bin\Debug\Test_XML_Serializatore.exe.config
+C:\Users\Andrea\source\repos\Test_XML_Serializatore\Test_XML_Serializatore\bin\Debug\Test_XML_Serializatore.exe
+C:\Users\Andrea\source\repos\Test_XML_Serializatore\Test_XML_Serializatore\bin\Debug\Test_XML_Serializatore.pdb
+C:\Users\Andrea\source\repos\Test_XML_Serializatore\Test_XML_Serializatore\obj\Debug\Test_XML_Serializatore.csprojAssemblyReference.cache
+C:\Users\Andrea\source\repos\Test_XML_Serializatore\Test_XML_Serializatore\obj\Debug\Test_XML_Serializatore.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\Test_XML_Serializatore\Test_XML_Serializatore\obj\Debug\Test_XML_Serializatore.exe
+C:\Users\Andrea\source\repos\Test_XML_Serializatore\Test_XML_Serializatore\obj\Debug\Test_XML_Serializatore.pdb

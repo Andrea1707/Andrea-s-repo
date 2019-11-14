@@ -1,0 +1,7 @@
+C:\Users\Andrea\source\repos\Server_TCP_Console\Server_TCP_Console\obj\Debug\Server_TCP_Console.csprojAssemblyReference.cache
+C:\Users\Andrea\source\repos\Server_TCP_Console\Server_TCP_Console\obj\Debug\Server_TCP_Console.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\Server_TCP_Console\Server_TCP_Console\bin\Debug\Server_TCP_Console.exe.config
+C:\Users\Andrea\source\repos\Server_TCP_Console\Server_TCP_Console\bin\Debug\Server_TCP_Console.exe
+C:\Users\Andrea\source\repos\Server_TCP_Console\Server_TCP_Console\bin\Debug\Server_TCP_Console.pdb
+C:\Users\Andrea\source\repos\Server_TCP_Console\Server_TCP_Console\obj\Debug\Server_TCP_Console.exe
+C:\Users\Andrea\source\repos\Server_TCP_Console\Server_TCP_Console\obj\Debug\Server_TCP_Console.pdb

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfRecord_transazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Record_transazione>
+    <numero_carta>12345678901</numero_carta>
+    <data_prelievo>2019-01-28T00:00:00+01:00</data_prelievo>
+    <importo_prelievo>-100</importo_prelievo>
+    <esito>true</esito>
+  </Record_transazione>
+  <Record_transazione>
+    <numero_carta>12345678901</numero_carta>
+    <data_prelievo>2019-01-28T00:00:00+01:00</data_prelievo>
+    <importo_prelievo>-500</importo_prelievo>
+    <esito>false</esito>
+  </Record_transazione>
+  <Record_transazione>
+    <numero_carta>12345678901</numero_carta>
+    <data_prelievo>2019-02-08T00:00:00+01:00</data_prelievo>
+    <importo_prelievo>-300</importo_prelievo>
+    <esito>true</esito>
+  </Record_transazione>
+  <Record_transazione>
+    <numero_carta>12345678901</numero_carta>
+    <data_prelievo>2019-02-08T00:00:00+01:00</data_prelievo>
+    <importo_prelievo>-300</importo_prelievo>
+    <esito>false</esito>
+  </Record_transazione>
+</ArrayOfRecord_transazione>

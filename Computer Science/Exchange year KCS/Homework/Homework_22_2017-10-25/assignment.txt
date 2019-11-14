@@ -1,0 +1,24 @@
+Homework#22 for 2017-10-24,  due 2017-10-25, end of day
+
+In class, we'll start making data visualizations ourselves.
+
+Make sure you're logged into Google website with your KCS email account.
+
+Click on this link and make a copy of the starting sheet:
+https://docs.google.com/spreadsheets/d/1S0AfxlpbG92Uj-p85puhQG2A-Yew1EMorizv5MiNGpQ/copy
+
+Log into your code.org account and click this link:
+https://studio.code.org/s/csp2/stage/11/puzzle/3
+
+We'll go over the first assignment "Make a scatter plot"
+
+When you're done with each section, save your work as a *.pdf file from the
+Google sheet menu File->DownloadAs->PDFDocument and save to HW22 directory in
+your Atom Github student repo and push to GitHub
+
+Your submission should have 4 *.pdf files:
+
+1. Make a scatter plot
+2. Make a line chart
+3. Make a bar chart
+4. Give your chart a makeover

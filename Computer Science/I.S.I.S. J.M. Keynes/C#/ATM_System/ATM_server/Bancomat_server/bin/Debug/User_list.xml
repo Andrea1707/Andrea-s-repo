@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfUtente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Utente>
+    <numero_carta>12345678901</numero_carta>
+    <pin>1234</pin>
+    <saldo>600</saldo>
+    <nome>Andrea</nome>
+    <cognome>Ferrario</cognome>
+  </Utente>
+</ArrayOfUtente>

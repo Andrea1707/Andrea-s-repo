@@ -1,0 +1,48 @@
+Topic: DDoS attack
+  Distributed Denial of Service attack
+
+Definition:
+
+Distributed denial-of-service attack (DDoS attack),
+the incoming traffic flooding the victim originates from many different sources.
+This effectively makes it impossible to stop the attack simply by blocking a single source.
+It is illegal.
+
+until
+
+There's a lot company who pay other company to DDoS for show safety of them site
+
+First DDoS attack:
+
+DoS attack was made by Khan C. Smith in 1997 during a DEF CON (nineteen ninety seven)
+
+Examples of DDoS attacks
+
+Christmas time 2015 PSP and Xbox server were attacked by Phantom Squad they tried to attack steam but they did not succeed.
+
+DEF CON:
+
+It's one of the world's largest hacker conventions, held annually in Las Vegas.
+
+Distributed DoS:
+
+A distributed denial-of-service (DDoS) is a cyber-attack where the perpetrator uses more than one unique IP address.
+
+Bot net
+A bot net is a number of Internet-connected devices, each of which is running one or more bots.
+Bot nets can be used to perform distributed denial-of-service attack (DDoS attack)
+
+Client-server model
+Star
+master (server)
+
+The first bot nets on the internet used a client-server model to accomplish their tasks.
+Typically, these bot nets operate through Internet Relay Chat networks, domains, or websites.
+Infected clients access a predetermined location and await incoming commands from the server.
+The bot herder sends commands to the server, which relays them to the clients.
+Clients execute the commands and report their results back to the bot herder.
+In the case of IRC bot nets,
+infected clients connect to an infected IRC server and join a channel pre-designated for C&C by the bot herder.
+The bot herder sends commands to the channel via the IRC server.
+Each client retrieves the commands and executes them.
+Clients send messages back to the IRC channel with the results of their actions.

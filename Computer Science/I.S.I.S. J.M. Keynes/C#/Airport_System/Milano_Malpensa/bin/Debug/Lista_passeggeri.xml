@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfPasseggero xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Passeggero>
+    <last_name>Ferrario</last_name>
+    <first_name>Andrea</first_name>
+    <data>2000-07-17T00:00:00</data>
+    <Nationality>USA</Nationality>
+  </Passeggero>
+  <Passeggero>
+    <last_name>Gilmore</last_name>
+    <first_name>Peyton</first_name>
+    <data>2001-04-12T00:00:00</data>
+    <Nationality>USA</Nationality>
+  </Passeggero>
+  <Passeggero>
+    <last_name>Carolo</last_name>
+    <first_name>Alessandro</first_name>
+    <data>2000-10-16T00:00:00</data>
+    <Nationality>ITA</Nationality>
+  </Passeggero>
+  <Passeggero>
+    <last_name>Ferrario</last_name>
+    <first_name>Marco</first_name>
+    <data>2002-11-15T00:00:00</data>
+    <Nationality>ITA</Nationality>
+  </Passeggero>
+  <Passeggero>
+    <last_name>Locchi</last_name>
+    <first_name>Giuliana</first_name>
+    <data>2003-01-08T00:00:00</data>
+    <Nationality>BEL</Nationality>
+  </Passeggero>
+  <Passeggero>
+    <last_name>Von Reis</last_name>
+    <first_name>Ture</first_name>
+    <data>1999-08-19T00:00:00</data>
+    <Nationality>SWE</Nationality>
+  </Passeggero>
+  <Passeggero>
+    <last_name>sffds</last_name>
+    <first_name>sdfds</first_name>
+    <data>2019-01-09T00:00:00</data>
+    <Nationality>def</Nationality>
+  </Passeggero>
+</ArrayOfPasseggero>

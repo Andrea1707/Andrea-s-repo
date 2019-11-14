@@ -1,0 +1,28 @@
+﻿<Window x:Class="Software_Motorizzazione.window_show"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Software_Motorizzazione"
+        mc:Ignorable="d"
+        Title="window_show" Height="450" Width="800" Closed="Window_Closed" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="6*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Show" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        <DataGrid Name="datagrid" Grid.Column="0" Grid.Row="1"  VerticalAlignment="Center" HorizontalAlignment="Center" Height="300" Width="700" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Targa:" Width="1*" Binding="{Binding targa}"/>
+                <DataGridTextColumn Header="Marca:" Width="1*" Binding="{Binding marca }"/>
+                <DataGridTextColumn Header="Modello:" Width="1*" Binding="{Binding modello}"/>
+                <DataGridTextColumn Header="Colore:" Width="1*" Binding="{Binding colore}"/>
+                <DataGridTextColumn Header="Nominativo:" Width="1*" Binding="{Binding nominativo }"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+
+    </Grid>
+</Window>

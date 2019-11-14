@@ -1,0 +1,14 @@
+1. Start!
+2. pick 1 card.
+3. cont=0.
+:first
+4. if cont== 7.
+5.pick next card.
+6.if  1 card < 2 card
+  discard 2 card
+  else
+  discard 1 card
+7.cont+1.
+8.goto first.
+9.say your last card.
+10. Done!

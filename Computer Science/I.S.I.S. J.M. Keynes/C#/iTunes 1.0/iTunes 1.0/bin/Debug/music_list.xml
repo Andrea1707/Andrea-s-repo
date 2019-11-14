@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfMusic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <music>
+    <image_path />
+    <Name>TextBox</Name>
+    <Artist>TextBox</Artist>
+    <Genere>TextBox</Genere>
+    <file_path />
+  </music>
+</ArrayOfMusic>

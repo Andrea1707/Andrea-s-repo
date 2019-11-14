@@ -1,0 +1,13 @@
+Homework#24 for 2017-10-31,  due 2017-11-02, end of day
+
+In class, we'll learn about pivot tables (summary data) and use test data
+
+Make sure you're logged into Google website with your KCS email account.
+
+This is the datasets used for this section:
+https://drive.google.com/file/d/0B2QFqkDgv9LjZU1sZ0hDdnZ6ck0
+Make a copy of the data for yourself
+
+We'll complete the activity that starts here:
+https://studio.code.org/s/csp2/stage/14/puzzle/1
+for parts 1 & 2

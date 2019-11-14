@@ -1,0 +1,13 @@
+Homework#34 for 2018-01-10 & 2018-01-11,  due 2018-01-18, end of day
+
+Code.org using Practice Performance Task for the turtle programming with their "App Lab" language
+
+https://studio.code.org/s/csp3/stage/10/puzzle/1
+
+Submit your answers as a TEXT file in your Github student repo to the included pdf
+"U3L10 Practice PT - Student Written Response Template.pdf"
+
+There are 3 other assignment and grading references included
+"U3L10 Practice PT - Design a Digital Scene - AP Rubric [Updated].pdf"
+"U3L10 Practice PT - Design a Digital Scene - Project and Programming Rubric.pdf"
+"U3L10 Practice PT - Design a Digital Scene [Updated Oct. 2017].pdf"

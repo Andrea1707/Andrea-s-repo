@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfUtente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Utente>
+    <username>Andrea</username>
+    <password>a</password>
+    <vittorie>0</vittorie>
+    <sconfitte>0</sconfitte>
+  </Utente>
+  <Utente>
+    <username>Ale</username>
+    <password>a</password>
+    <vittorie>0</vittorie>
+    <sconfitte>0</sconfitte>
+  </Utente>
+  <Utente>
+    <username>a</username>
+    <password>a</password>
+    <vittorie>1</vittorie>
+    <sconfitte>0</sconfitte>
+  </Utente>
+  <Utente>
+    <username>b</username>
+    <password>b</password>
+    <vittorie>0</vittorie>
+    <sconfitte>0</sconfitte>
+  </Utente>
+  <Utente>
+    <username>AndreaFerrario</username>
+    <password>a</password>
+    <vittorie>0</vittorie>
+    <sconfitte>0</sconfitte>
+  </Utente>
+</ArrayOfUtente>

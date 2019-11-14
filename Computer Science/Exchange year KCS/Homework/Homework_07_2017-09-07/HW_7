@@ -1,0 +1,39 @@
+1) Given the IP addresses and subnet mask listed below, answer these 3 questions for each
+ a) What is the network ID (bottom address in range of host IP addresses)
+ b) What is the broadcast IP (top address in range of host IP addresses)
+ c) What is the range of usable host IP addresses (addresses between a) and b) above)
+
+10.45.200.76 and subnet mask 255.255.255.0
+a)10.45.0.0
+b)10.45.255.255
+c)1 to 254
+
+254.60.60.1 and subnet mask 255.255.0.0
+a)
+b)
+c)
+
+1.1.1.17 and subnet mask 255.255.255.192
+a)
+b)
+c)
+
+2) What subnet mask will give 510 usable (when including network ID and
+   broadcast ID address, it will be a total of 512 "neighbors")
+   for the IP address:
+
+   1.2.3.4
+
+
+EXTRA
+
+If you are interested in more detail about IP addresses and subnet masks,
+this link from Cisco has the most in-depth and straight forward discussion.
+(this is not required reading for this home, just helpful extra information)
+
+https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html
+
+http://www.techrepublic.com/blog/data-center/ip-subnetting-made-easy-125343/
+
+If you read this far, you should click on this link for the homework answers
+http://jodies.de/ipcalc

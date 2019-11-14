@@ -1,0 +1,592 @@
+#divApplab.appModern button,
+#divApplab.appModern button:hover {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  height: 30px;
+  width: 80px;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern label,
+#divApplab.appModern label:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  line-height: 1;
+  font-size: 14px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  word-wrap: break-word;
+  color: rgb(51, 51, 51);
+  max-width: 320px;
+  width: 32px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=text],
+#divApplab.appModern input[type=text]:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  width: 200px;
+  height: 30px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=checkbox],
+#divApplab.appModern input[type=checkbox]:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern select,
+#divApplab.appModern select:hover {
+  width: 200px;
+  height: 30px;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=radio],
+#divApplab.appModern input[type=radio]:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern div.textArea,
+#divApplab.appModern div.textArea:hover {
+  width: 200px;
+  height: 100px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern img,
+#divApplab.appModern img:hover {
+  height: 100px;
+  width: 100px;
+  object-fit: contain;
+  font-family: "object-fit: contain;";
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern canvas,
+#divApplab.appModern canvas:hover {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern div.screen,
+#divApplab.appModern div.screen:hover {
+  display: block;
+  height: 450px;
+  width: 320px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  z-index: 0;
+}
+
+#divApplab.appModern div.chart,
+#divApplab.appModern div.chart:hover {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern input[type=range],
+#divApplab.appModern input[type=range]:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  width: 150px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern #Instructions {
+  background-color: rgb(8, 103, 136);
+}
+
+#divApplab.appModern #play_local {
+  color: rgb(243, 245, 243);
+  background-color: rgb(6, 174, 213);
+  left: 110px;
+  top: 310px;
+  width: 90px;
+}
+
+#divApplab.appModern #label3 {
+  font-size: 22px;
+  color: rgb(251, 245, 243);
+  width: 320px;
+  height: 29.999999999999996px;
+  left: 0.0000000000000002220446049250313px;
+  top: 129px;
+  text-align: center;
+}
+
+#divApplab.appModern #label4 {
+  font-size: 18px;
+  width: 320px;
+  height: 55px;
+  top: 200px;
+  text-align: center;
+  color: rgb(243, 245, 243);
+}
+
+#divApplab.appModern #label2 {
+  color: rgb(251, 245, 243);
+  width: 320px;
+  height: 25px;
+  left: -0.00000000000000016653345369377348px;
+  top: 170px;
+  text-align: center;
+}
+
+#divApplab.appModern #score_button {
+  color: rgb(243, 245, 243);
+  background-color: rgb(6, 174, 213);
+  left: 110px;
+  top: 350px;
+  width: 90px;
+}
+
+#divApplab.appModern #play {
+  color: rgb(243, 245, 243);
+  background-color: rgb(6, 174, 213);
+  left: 110px;
+  top: 270px;
+  width: 90px;
+}
+
+#divApplab.appModern #option {
+  height: 50px;
+  width: 50px;
+  left: 265px;
+  top: 5px;
+  background-image: url(https://studio.code.org/v3/assets/gVV1XrFr5xiy6h_shcI5C7ZcOM4l8PKHbZsVb7SVJwI/settings.png);
+  background-size: contain;
+  background-color: rgb(8, 103, 136);
+  color: rgb(8, 103, 136);
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #MainGame {
+  background-color: rgb(8, 103, 136);
+  display: none;
+}
+
+#divApplab.appModern #label5 {
+  width: 85px;
+  height: 30.000000000000004px;
+  left: 230px;
+  top: 10px;
+  background-color: rgb(6, 174, 213);
+}
+
+#divApplab.appModern #p2Score {
+  color: rgb(251, 245, 243);
+  width: 44px;
+  left: 235px;
+  top: 15px;
+}
+
+#divApplab.appModern #b1 {
+  height: 90px;
+  width: 85px;
+  font-size: 40px;
+  color: rgb(255, 191, 41);
+  left: 15px;
+  top: 135px;
+  background-color: rgb(6, 174, 213);
+}
+
+#divApplab.appModern #b2 {
+  width: 85px;
+  font-size: 40px;
+  color: rgb(255, 191, 41);
+  left: 120px;
+  top: 135px;
+  height: 90px;
+  background-color: rgb(6, 174, 213);
+}
+
+#divApplab.appModern #b3 {
+  font-size: 40px;
+  color: rgb(255, 191, 41);
+  left: 225px;
+  top: 135px;
+  width: 85px;
+  height: 90px;
+  background-color: rgb(6, 174, 213);
+}
+
+#divApplab.appModern #b4 {
+  width: 85px;
+  font-size: 40px;
+  color: rgb(255, 191, 41);
+  left: 15px;
+  top: 240px;
+  height: 90px;
+  background-color: rgb(6, 174, 213);
+}
+
+#divApplab.appModern #b5 {
+  width: 85px;
+  font-size: 40px;
+  color: rgb(255, 191, 41);
+  left: 120px;
+  top: 240px;
+  height: 90px;
+  background-color: rgb(6, 174, 213);
+}
+
+#divApplab.appModern #P1_highlight {
+  width: 85px;
+  height: 30.000000000000004px;
+  left: 10px;
+  top: 10px;
+  background-color: rgb(6, 174, 213);
+}
+
+#divApplab.appModern #b6 {
+  width: 85px;
+  font-size: 40px;
+  color: rgb(255, 191, 41);
+  left: 225px;
+  top: 240px;
+  height: 90px;
+  background-color: rgb(6, 174, 213);
+}
+
+#divApplab.appModern #b7 {
+  width: 85px;
+  font-size: 40px;
+  color: rgb(255, 191, 41);
+  left: 15px;
+  top: 345px;
+  height: 90px;
+  background-color: rgb(6, 174, 213);
+}
+
+#divApplab.appModern #b8 {
+  width: 85px;
+  font-size: 40px;
+  color: rgb(255, 191, 41);
+  left: 120px;
+  top: 345px;
+  height: 90px;
+  background-color: rgb(6, 174, 213);
+}
+
+#divApplab.appModern #b9 {
+  width: 85px;
+  font-size: 40px;
+  color: rgb(255, 191, 41);
+  left: 225px;
+  top: 345px;
+  height: 90px;
+  background-color: rgb(6, 174, 213);
+}
+
+#divApplab.appModern #p1Score {
+  color: rgb(251, 245, 243);
+  width: 42px;
+  left: 10px;
+  top: 15px;
+}
+
+#divApplab.appModern #score1 {
+  color: rgb(251, 245, 243);
+  width: 25px;
+  height: 20px;
+  left: 50px;
+  top: 15px;
+}
+
+#divApplab.appModern #score2 {
+  color: rgb(251, 245, 243);
+  width: 20px;
+  height: 20px;
+  left: 280px;
+  top: 15px;
+}
+
+#divApplab.appModern #roundWinner {
+  font-size: 20px;
+  color: rgb(255, 191, 41);
+  width: 320px;
+  height: 30px;
+  left: 0.0000000000000002220446049250313px;
+  top: 70px;
+  text-align: center;
+}
+
+#divApplab.appModern #x {
+  color: rgb(251, 245, 243);
+  width: 20px;
+  height: 20px;
+  left: 295px;
+  top: 15px;
+}
+
+#divApplab.appModern #0 {
+  color: rgb(251, 245, 243);
+  width: 20px;
+  height: 20px;
+  left: 65px;
+  top: 15px;
+}
+
+#divApplab.appModern #Winner {
+  background-color: rgb(8, 103, 136);
+  display: none;
+}
+
+#divApplab.appModern #label1 {
+  color: rgb(255, 191, 41);
+  width: 315px;
+  height: 20px;
+  left: 5px;
+  top: 145px;
+  text-align: center;
+}
+
+#divApplab.appModern #replay {
+  width: 85px;
+  background-color: rgb(6, 174, 213);
+  left: 120px;
+  top: 235px;
+}
+
+#divApplab.appModern #winnerLabel {
+  color: rgb(255, 191, 41);
+  width: 320px;
+  height: 20px;
+  left: 0.00000000000000011102230246251565px;
+  top: 190px;
+  text-align: center;
+}
+
+#divApplab.appModern #label6 {
+  color: rgb(255, 191, 41);
+  width: 320px;
+  height: 20px;
+  top: 290px;
+  text-align: center;
+}
+
+#divApplab.appModern #score_screen {
+  background-color: rgb(8, 103, 136);
+  display: none;
+}
+
+#divApplab.appModern #back_button2 {
+  color: rgb(243, 245, 243);
+  background-color: rgb(6, 174, 213);
+  left: 220px;
+  top: 410px;
+}
+
+#divApplab.appModern #login {
+  background-color: rgb(8, 103, 136);
+  display: none;
+}
+
+#divApplab.appModern #login_button {
+  color: rgb(243, 245, 243);
+  background-color: rgb(6, 174, 213);
+  left: 140px;
+  top: 160px;
+}
+
+#divApplab.appModern #username {
+  left: 20px;
+  top: 45px;
+  background-color: rgb(243, 245, 243);
+}
+
+#divApplab.appModern #password {
+  color: rgb(255, 254, 254);
+  left: 20px;
+  top: 115px;
+  background-color: rgb(243, 245, 243);
+}
+
+#divApplab.appModern #label7 {
+  color: rgb(243, 245, 243);
+  width: 75px;
+  left: 20px;
+  top: 25px;
+}
+
+#divApplab.appModern #label8 {
+  color: rgb(243, 245, 243);
+  width: 71px;
+  left: 20px;
+  top: 95px;
+}
+
+#divApplab.appModern #signup {
+  height: 30.000000000000004px;
+  color: rgb(243, 245, 243);
+  background-color: rgb(6, 174, 213);
+  left: 20px;
+  top: 160px;
+}
+
+#divApplab.appModern #label_response {
+  color: rgb(81, 255, 0);
+  width: 320px;
+  height: 20px;
+  left: 0.0000000000000004440892098500626px;
+  top: 225px;
+  text-align: center;
+}
+
+#divApplab.appModern #back_button {
+  background-color: rgb(6, 174, 213);
+  left: 225px;
+  top: 410px;
+}
+
+#divApplab.appModern #Options {
+  background-color: rgb(8, 103, 136);
+  display: none;
+}
+
+#divApplab.appModern #logout {
+  color: rgb(243, 245, 243);
+  background-color: rgb(6, 174, 213);
+  left: 225px;
+  top: 400px;
+}
+
+#divApplab.appModern #OldPassword {
+  left: 10px;
+  top: 50px;
+  background-color: rgb(243, 245, 243);
+}
+
+#divApplab.appModern #NewPassword {
+  left: 10px;
+  top: 105px;
+  background-color: rgb(243, 245, 243);
+}
+
+#divApplab.appModern #label9 {
+  color: rgb(243, 245, 243);
+  width: 107px;
+  left: 10px;
+  top: 85px;
+}
+
+#divApplab.appModern #label10 {
+  color: rgb(243, 245, 243);
+  width: 100px;
+  left: 10px;
+  top: 30px;
+}
+
+#divApplab.appModern #label11 {
+  color: rgb(243, 245, 243);
+  width: 129px;
+  left: 10px;
+  top: 5px;
+}
+
+#divApplab.appModern #change {
+  color: rgb(243, 245, 243);
+  background-color: rgb(6, 174, 213);
+  left: 10px;
+  top: 150px;
+}
+
+#divApplab.appModern #label_response1 {
+  color: rgb(81, 255, 0);
+  width: 225px;
+  height: 60px;
+  left: 95px;
+  top: 155px;
+}

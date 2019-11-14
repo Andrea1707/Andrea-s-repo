@@ -1,0 +1,33 @@
+Story of the stars Andrea Kahla Kohdai.
+
+2a. Provide a written response that:
+	● identifies the programming language:
+		The programming language is Java Script.
+	● identifies the purpose of your program:
+		The purpose of our program is given a number between zero to four and draw stars.
+	● and explains what the user should expect to see when they run the program.
+		When you press on start the program ask how many squares do you want dray (number between 0 to 4) and
+    with the turtle it will draw 1,2,3 or 4 stars in random colors.
+
+
+2b . Describe the incremental and iterative development process of your program, focusing on two distinct
+points in that process. Describe the difficulties and/or opportunities you encountered and how they were
+resolved or incorporated. In your description clearly indicate whether the development described was
+collaborative or independent. At least one of these points must refer to independent program development.
+
+  We started tho give us different jobs. Kohdai made the process to draw a star, Kahla made the ‘for’
+  loop for draw different stars and I made the script for ask how many stars you want.
+
+2d . Capture and paste a program code segment that contains an abstraction you developed individually
+  on your own (marked with a rectangle). This abstraction must integrate mathematical and logical concepts.
+  Explain how your abstraction helped manage the complexity of your program.
+
+
+function Andrea_Function() {
+  do{
+var n = prompt("How many stars?(Number between 0 and 4)", "");
+}
+while(n>4&&n>0);
+Kahla_Function(n);
+
+}

@@ -1,0 +1,10 @@
+Homework#25 for 2017-11-07,  due 2017-11-08, end of day
+
+In class, we'll now start to learn about how to make computer programs
+
+Computer Science Illuminated
+
+"6  LOW-LEVEL PROGRAMMING LANGUAGES AND PSEUDOCODE"
+- read pages 153-161 (these are PDF pages 253-264)
+
+On page 192 (PDF 302), question #1-10

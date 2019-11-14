@@ -1,0 +1,16 @@
+Homework#36 for 2018-01-25 due end of day
+
+Code.org using about significant data breaches
+https://studio.code.org/s/csp4/stage/3/puzzle/1
+
+(in-class)
+Review data breaches here and be prepared to discuss (20m)
+http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
+
+(homework)
+Take a quick look at this resource:
+https://aboutmyinfo.org/compute.php
+
+And then complete the Activity Guide - Research Yourself:
+Submit your answers as a TEXT file in your Github student repo to the included pdf
+"U4L03 Activity Guide - Research Yourself"

@@ -1,0 +1,70 @@
+Reading:
+https://technet.microsoft.com/en-us/library/cc958832.aspx
+
+REMEMBER:
+-IP addresses are a series of 4 8-bit numbers
+-Subnet masks are a series of 4 8-bit numbers
+-You determine the network ID (IP) by AND'ing the IP address and subnet mask
+-You determine the broadcast IP address by finding the maximum (last possible)
+ host address for the subnet (turn all host bits to 1's)
+
+EXAMPLE:
+IP 192.168.100.65:          11000000.10101000.01100100.01000001
+SM 255.255.255.224          11111111.11111111.11111111.11100000
+
+65 decimal to binary:       01001001
+224 decimal to binary:      11100000
+AND'ing to get network ID:  01000000  = 64
+
+network ID                  192.168.100.64
+
+first usable                01000001 = 65
+                            192.168.100.65
+
+broadcast IP address        01011111 = 95
+(all host bits on)          192.168.100.95
+
+last usable                 01011110 = 94
+(one less than broadcast)   192.168.100.94
+
+QUESTIONS:
+
+1) Given the IP addresses and subnet mask listed below, answer these 3 questions for each
+ a) What is the network ID (bottom address in range of host IP addresses)
+ b) What is the broadcast IP (top address in range of host IP addresses)
+ c) What is the range of usable host IP addresses (addresses between a) and b) above)
+
+10.45.200.76 and subnet mask 255.255.255.0
+a)
+b)
+c)
+
+254.60.60.1 and subnet mask 255.255.0.0
+a)
+b)
+c)
+
+1.1.1.17 and subnet mask 255.255.255.192
+a)
+b)
+c)
+
+2) What subnet mask will give 510 usable (when including network ID and
+   broadcast ID address, it will be a total of 512 "neighbors")
+   for the IP address:
+
+   1.2.3.4
+
+
+EXTRA
+
+If you are interested in more detail about IP addresses and subnet masks,
+this link from Cisco has the most in-depth and straight forward discussion.
+(this is not required reading for this home, just helpful extra information)
+
+https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html
+
+http://www.techrepublic.com/blog/data-center/ip-subnetting-made-easy-125343/
+
+If you read this far, you should click on this link for the homework answers
+http://jodies.de/ipcalc

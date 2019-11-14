@@ -1,0 +1,19 @@
+Homework#21 for 2017-10-23,  due 2017-10-24, end of day
+
+In class, we'll go over the included presentation "Data Visualization 101"
+
+Complete the material included in the pdf "U2L10 Worksheet - Data Visualization Scorecard"
+with this assignment. As always, create a text file in your student repo for the
+answers, if you have difficulties, print out the pdf file and put your answers
+on the paper to turn in.
+
+Here are the references for data visualization examples. During class, students
+will be assigned one collection or the other.
+YOU DO NOT HAVE TO DO BOTH COLLECTIONS!
+
+
+Collection A
+https://studio.code.org/s/csp2/stage/10/puzzle/2
+
+Collection B
+https://studio.code.org/s/csp2/stage/10/puzzle/3

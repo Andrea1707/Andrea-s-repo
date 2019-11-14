@@ -1,0 +1,17 @@
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\Salvataggio nome e cognome.csprojAssemblyReference.cache
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\App.g.cs
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\Salvataggio nome e cognome_MarkupCompile.cache
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\Salvataggio nome e cognome_MarkupCompile.lref
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\bin\Debug\Salvataggio nome e cognome.exe.config
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\bin\Debug\Salvataggio nome e cognome.exe
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\bin\Debug\Salvataggio nome e cognome.pdb
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\MainWindow.baml
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\Salvataggio nome e cognome.g.resources
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\Salvataggio_nome_e_cognome.Properties.Resources.resources
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\Salvataggio nome e cognome.csproj.GenerateResource.cache
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\Salvataggio nome e cognome.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\Salvataggio nome e cognome.exe
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\Salvataggio nome e cognome.pdb
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\Aggiungi.g.cs
+C:\Users\Andrea\source\repos\Salvataggio nome e cognome\Salvataggio nome e cognome\obj\Debug\Aggiungi.baml

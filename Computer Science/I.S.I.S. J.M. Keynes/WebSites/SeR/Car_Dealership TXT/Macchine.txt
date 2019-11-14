@@ -1,0 +1,3 @@
+Fiat 500 S|20000|2.jpeg
+Fiat Panda|15000|1.png
+Ford Focus RS|45000|3.png

@@ -1,0 +1,8 @@
+Homework#31 for 2017-11-28,  due 2017-11-29, end of day
+
+Code.org using API's for the turtle programming with their "App Lab" language
+
+https://studio.code.org/s/csp3/stage/7/puzzle/1
+
+When your program is complete, click on the middle-right button "</> show text".
+Copy your program code into a file in your student repo.

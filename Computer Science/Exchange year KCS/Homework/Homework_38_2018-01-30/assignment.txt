@@ -1,0 +1,8 @@
+Homework#38 for 2018-01-29 in class
+
+Code.org about encryption
+https://studio.code.org/s/csp4/stage/5/puzzle/1
+
+(in-class)
+Caeser cipher
+https://studio.code.org/s/csp4/stage/5/puzzle/2

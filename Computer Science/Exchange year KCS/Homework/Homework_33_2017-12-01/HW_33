@@ -1,0 +1,1381 @@
+(1)for (var i = 0; i < 100000; i++) {
+  moveForward(100);
+  turnLeft(137);
+}
+
+(2)// Insert your code here
+for (var i = 0; i < 72; i++) {
+  drawSquare(100);
+  turnRight(10);
+}
+
+// Draw a Square of the given size
+function drawSquare(size){
+  moveForward(size);
+  turnRight(90);
+  moveForward(size);
+  turnRight(90);
+  moveForward(size);
+  turnRight(90);
+  moveForward(size);
+  turnRight(90);
+}
+
+(3)penUp();
+for (var i = 0; i < 4000; i++) {
+  penRGB(randomNumber(0,255), randomNumber(0,255), randomNumber(0,255), 0.5);
+  moveTo(randomNumber(0,320), randomNumber(0,450));
+  dot(randomNumber(1,20));
+}
+for (var i = 0; i < 4000; i++) {
+  penRGB(255, 255, 255, 1);
+  moveTo(randomNumber(0, 320), randomNumber(0, 450));
+  dot(randomNumber(1, 20));
+}
+
+(4)penUp();
+for (var i = 0; i < 4000; i++) {
+  penRGB(randomNumber(0,255), randomNumber(0,255), randomNumber(0,255), 0.5);
+  moveTo(randomNumber(0,320), randomNumber(0,450));
+  dot(randomNumber(1,20));
+}
+for (var i = 0; i < 4000; i++) {
+  penRGB(255, 255, 255, 1);
+  moveTo(randomNumber(0, 320), randomNumber(0, 450));
+  dot(randomNumber(1, 20));
+}
+
+(5)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// These six functions draw everything. Order matters
+// for how different parts of the picture are layered.
+drawBackground();
+for (var i = 0; i < 100; i++) {
+  drawAllBubbles();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSeagrass();
+}
+for (var i = 0; i < 5; i++) {
+  drawAllSeaStars();
+}
+for (var i = 0; i < 4; i++) {
+  drawAllFish();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSunbeams();
+}
+for (var i = 0; i < 20; i++) {
+  face();
+}
+
+// To do: Repeatedly draw sea grass
+function drawAllSeagrass(){
+  for (var i = 0; i < 50; i++) {
+    moveTo(randomNumber(0,320),450);
+    turnTo(0);
+    drawSeagrass(randomNumber(5,20), randomNumber(2, 10));
+  }
+}
+
+// To do: Repeatedly draw sea stars
+function drawAllSeaStars(){
+  moveTo(randomNumber(0,320), randomNumber(360,450));
+  drawSeaStar(randomNumber(10,30));
+}
+
+// To do: Repeatedly draw fish
+function drawAllFish(){
+  for (var i = 0; i < 10; i++) {
+    moveTo(randomNumber(0,320),randomNumber(0,300));
+    drawFish(randomNumber(5,20),randomNumber(200,255),randomNumber(100,150),120);
+  }
+}
+
+// To do: Repeatedly draw bubbles
+function drawAllBubbles(){
+  moveTo(randomNumber(0,320),randomNumber(0,450));
+  for (var i = 0; i < 200; i++) {
+    drawBubble();
+  }
+}
+
+// To do: Repeatedly draw sunbeams
+function drawAllSunbeams(){
+  for (var i = 0; i < 100; i++) {
+    moveTo(randomNumber(-50,320),0);
+    turnTo(randomNumber(165,175));
+    drawSunbeam(randomNumber(100,400));
+  }
+}
+
+// Make the background by drawing a large blue dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five-pointed star with a wide pen of the given size
+function drawSeaStar(size){
+  for (var i = 0; i < 30; i++) {
+    penRGB(255,0,255);
+    penWidth(10);
+    penDown();
+    turnTo(0);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    penUp();
+  }
+}
+
+// Switches between left and right arcs to make seaGrass with the given radius
+function drawSeagrass(radius, numWaves){
+  penRGB(0,randomNumber(100,200),0);
+  penWidth(3);
+  penDown();
+  arcLeft(30,radius);
+
+  // Repeatedly switch between left and right
+  for(var i = 0; i < numWaves; i++){
+    arcRight(60,radius);
+    arcLeft(60,radius);
+  }
+  penUp();
+}
+
+// Draws a fish at the current turtle location with the given size and color
+function drawFish(size, red, green, blue){
+  penRGB(red,green,blue);
+  penWidth(size);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+// Bubbles are semi-transparent dots
+function drawBubble(size){
+  penRGB(100,100,255,0.007);
+  dot(randomNumber(1, 7));
+}
+
+// Sunbeams are semi-transparent lines
+function drawSunbeam(size){
+  penDown();
+  penWidth(randomNumber(1,15));
+  penRGB(255,255,255,0.1);
+  moveForward(size);
+  penUp();
+}
+
+function face() {
+  moveTo(randomNumber(0, 320), randomNumber(320, 450));
+  turnTo(0);
+  penColor("yellow");
+  dot(20);
+  moveForward(8);
+  turnLeft(90);
+  moveForward(10);
+  penColor("black");
+  dot(5);
+  turnRight(180);
+  moveForward(20);
+  dot(5);
+  turnRight(90);
+  moveForward(15);
+  penWidth(3);
+  penDown();
+  arcRight(180, 10);
+  penUp();
+}
+
+(6)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// These six functions draw everything. Order matters
+// for how different parts of the picture are layered.
+drawBackground();
+for (var i = 0; i < 100; i++) {
+  drawAllBubbles();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSeagrass();
+}
+for (var i = 0; i < 5; i++) {
+  drawAllSeaStars();
+}
+for (var i = 0; i < 4; i++) {
+  drawAllFish();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSunbeams();
+}
+for (var i = 0; i < 20; i++) {
+  face();
+}
+
+// To do: Repeatedly draw sea grass
+function drawAllSeagrass(){
+  for (var i = 0; i < 50; i++) {
+    moveTo(randomNumber(0,320),450);
+    turnTo(0);
+    drawSeagrass(randomNumber(5,20), randomNumber(2, 10));
+  }
+}
+
+// To do: Repeatedly draw sea stars
+function drawAllSeaStars(){
+  moveTo(randomNumber(0,320), randomNumber(360,450));
+  drawSeaStar(randomNumber(10,30));
+}
+
+// To do: Repeatedly draw fish
+function drawAllFish(){
+  for (var i = 0; i < 10; i++) {
+    moveTo(randomNumber(0,320),randomNumber(0,300));
+    drawFish(randomNumber(5,20),randomNumber(200,255),randomNumber(100,150),120);
+  }
+}
+
+// To do: Repeatedly draw bubbles
+function drawAllBubbles(){
+  moveTo(randomNumber(0,320),randomNumber(0,450));
+  for (var i = 0; i < 200; i++) {
+    drawBubble();
+  }
+}
+
+// To do: Repeatedly draw sunbeams
+function drawAllSunbeams(){
+  for (var i = 0; i < 100; i++) {
+    moveTo(randomNumber(-50,320),0);
+    turnTo(randomNumber(165,175));
+    drawSunbeam(randomNumber(100,400));
+  }
+}
+
+// Make the background by drawing a large blue dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five-pointed star with a wide pen of the given size
+function drawSeaStar(size){
+  for (var i = 0; i < 30; i++) {
+    penRGB(255,0,255);
+    penWidth(10);
+    penDown();
+    turnTo(0);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    penUp();
+  }
+}
+
+// Switches between left and right arcs to make seaGrass with the given radius
+function drawSeagrass(radius, numWaves){
+  penRGB(0,randomNumber(100,200),0);
+  penWidth(3);
+  penDown();
+  arcLeft(30,radius);
+
+  // Repeatedly switch between left and right
+  for(var i = 0; i < numWaves; i++){
+    arcRight(60,radius);
+    arcLeft(60,radius);
+  }
+  penUp();
+}
+
+// Draws a fish at the current turtle location with the given size and color
+function drawFish(size, red, green, blue){
+  penRGB(red,green,blue);
+  penWidth(size);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+// Bubbles are semi-transparent dots
+function drawBubble(size){
+  penRGB(100,100,255,0.007);
+  dot(randomNumber(1, 7));
+}
+
+// Sunbeams are semi-transparent lines
+function drawSunbeam(size){
+  penDown();
+  penWidth(randomNumber(1,15));
+  penRGB(255,255,255,0.1);
+  moveForward(size);
+  penUp();
+}
+
+function face() {
+  moveTo(randomNumber(0, 320), randomNumber(320, 450));
+  turnTo(0);
+  penColor("yellow");
+  dot(20);
+  moveForward(8);
+  turnLeft(90);
+  moveForward(10);
+  penColor("black");
+  dot(5);
+  turnRight(180);
+  moveForward(20);
+  dot(5);
+  turnRight(90);
+  moveForward(15);
+  penWidth(3);
+  penDown();
+  arcRight(180, 10);
+  penUp();
+}
+
+(7)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// These six functions draw everything. Order matters
+// for how different parts of the picture are layered.
+drawBackground();
+for (var i = 0; i < 100; i++) {
+  drawAllBubbles();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSeagrass();
+}
+for (var i = 0; i < 5; i++) {
+  drawAllSeaStars();
+}
+for (var i = 0; i < 4; i++) {
+  drawAllFish();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSunbeams();
+}
+for (var i = 0; i < 20; i++) {
+  face();
+}
+
+// To do: Repeatedly draw sea grass
+function drawAllSeagrass(){
+  for (var i = 0; i < 50; i++) {
+    moveTo(randomNumber(0,320),450);
+    turnTo(0);
+    drawSeagrass(randomNumber(5,20), randomNumber(2, 10));
+  }
+}
+
+// To do: Repeatedly draw sea stars
+function drawAllSeaStars(){
+  moveTo(randomNumber(0,320), randomNumber(360,450));
+  drawSeaStar(randomNumber(10,30));
+}
+
+// To do: Repeatedly draw fish
+function drawAllFish(){
+  for (var i = 0; i < 10; i++) {
+    moveTo(randomNumber(0,320),randomNumber(0,300));
+    drawFish(randomNumber(5,20),randomNumber(200,255),randomNumber(100,150),120);
+  }
+}
+
+// To do: Repeatedly draw bubbles
+function drawAllBubbles(){
+  moveTo(randomNumber(0,320),randomNumber(0,450));
+  for (var i = 0; i < 200; i++) {
+    drawBubble();
+  }
+}
+
+// To do: Repeatedly draw sunbeams
+function drawAllSunbeams(){
+  for (var i = 0; i < 100; i++) {
+    moveTo(randomNumber(-50,320),0);
+    turnTo(randomNumber(165,175));
+    drawSunbeam(randomNumber(100,400));
+  }
+}
+
+// Make the background by drawing a large blue dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five-pointed star with a wide pen of the given size
+function drawSeaStar(size){
+  for (var i = 0; i < 30; i++) {
+    penRGB(255,0,255);
+    penWidth(10);
+    penDown();
+    turnTo(0);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    penUp();
+  }
+}
+
+// Switches between left and right arcs to make seaGrass with the given radius
+function drawSeagrass(radius, numWaves){
+  penRGB(0,randomNumber(100,200),0);
+  penWidth(3);
+  penDown();
+  arcLeft(30,radius);
+
+  // Repeatedly switch between left and right
+  for(var i = 0; i < numWaves; i++){
+    arcRight(60,radius);
+    arcLeft(60,radius);
+  }
+  penUp();
+}
+
+// Draws a fish at the current turtle location with the given size and color
+function drawFish(size, red, green, blue){
+  penRGB(red,green,blue);
+  penWidth(size);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+// Bubbles are semi-transparent dots
+function drawBubble(size){
+  penRGB(100,100,255,0.007);
+  dot(randomNumber(1, 7));
+}
+
+// Sunbeams are semi-transparent lines
+function drawSunbeam(size){
+  penDown();
+  penWidth(randomNumber(1,15));
+  penRGB(255,255,255,0.1);
+  moveForward(size);
+  penUp();
+}
+
+function face() {
+  moveTo(randomNumber(0, 320), randomNumber(320, 450));
+  turnTo(0);
+  penColor("yellow");
+  dot(20);
+  moveForward(8);
+  turnLeft(90);
+  moveForward(10);
+  penColor("black");
+  dot(5);
+  turnRight(180);
+  moveForward(20);
+  dot(5);
+  turnRight(90);
+  moveForward(15);
+  penWidth(3);
+  penDown();
+  arcRight(180, 10);
+  penUp();
+}
+
+(8)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// These six functions draw everything. Order matters
+// for how different parts of the picture are layered.
+drawBackground();
+for (var i = 0; i < 100; i++) {
+  drawAllBubbles();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSeagrass();
+}
+for (var i = 0; i < 5; i++) {
+  drawAllSeaStars();
+}
+for (var i = 0; i < 4; i++) {
+  drawAllFish();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSunbeams();
+}
+for (var i = 0; i < 20; i++) {
+  face();
+}
+
+// To do: Repeatedly draw sea grass
+function drawAllSeagrass(){
+  for (var i = 0; i < 50; i++) {
+    moveTo(randomNumber(0,320),450);
+    turnTo(0);
+    drawSeagrass(randomNumber(5,20), randomNumber(2, 10));
+  }
+}
+
+// To do: Repeatedly draw sea stars
+function drawAllSeaStars(){
+  moveTo(randomNumber(0,320), randomNumber(360,450));
+  drawSeaStar(randomNumber(10,30));
+}
+
+// To do: Repeatedly draw fish
+function drawAllFish(){
+  for (var i = 0; i < 10; i++) {
+    moveTo(randomNumber(0,320),randomNumber(0,300));
+    drawFish(randomNumber(5,20),randomNumber(200,255),randomNumber(100,150),120);
+  }
+}
+
+// To do: Repeatedly draw bubbles
+function drawAllBubbles(){
+  moveTo(randomNumber(0,320),randomNumber(0,450));
+  for (var i = 0; i < 200; i++) {
+    drawBubble();
+  }
+}
+
+// To do: Repeatedly draw sunbeams
+function drawAllSunbeams(){
+  for (var i = 0; i < 100; i++) {
+    moveTo(randomNumber(-50,320),0);
+    turnTo(randomNumber(165,175));
+    drawSunbeam(randomNumber(100,400));
+  }
+}
+
+// Make the background by drawing a large blue dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five-pointed star with a wide pen of the given size
+function drawSeaStar(size){
+  for (var i = 0; i < 30; i++) {
+    penRGB(255,0,255);
+    penWidth(10);
+    penDown();
+    turnTo(0);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    penUp();
+  }
+}
+
+// Switches between left and right arcs to make seaGrass with the given radius
+function drawSeagrass(radius, numWaves){
+  penRGB(0,randomNumber(100,200),0);
+  penWidth(3);
+  penDown();
+  arcLeft(30,radius);
+
+  // Repeatedly switch between left and right
+  for(var i = 0; i < numWaves; i++){
+    arcRight(60,radius);
+    arcLeft(60,radius);
+  }
+  penUp();
+}
+
+// Draws a fish at the current turtle location with the given size and color
+function drawFish(size, red, green, blue){
+  penRGB(red,green,blue);
+  penWidth(size);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+// Bubbles are semi-transparent dots
+function drawBubble(size){
+  penRGB(100,100,255,0.007);
+  dot(randomNumber(1, 7));
+}
+
+// Sunbeams are semi-transparent lines
+function drawSunbeam(size){
+  penDown();
+  penWidth(randomNumber(1,15));
+  penRGB(255,255,255,0.1);
+  moveForward(size);
+  penUp();
+}
+
+function face() {
+  moveTo(randomNumber(0, 320), randomNumber(320, 450));
+  turnTo(0);
+  penColor("yellow");
+  dot(20);
+  moveForward(8);
+  turnLeft(90);
+  moveForward(10);
+  penColor("black");
+  dot(5);
+  turnRight(180);
+  moveForward(20);
+  dot(5);
+  turnRight(90);
+  moveForward(15);
+  penWidth(3);
+  penDown();
+  arcRight(180, 10);
+  penUp();
+}
+
+(9)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// These six functions draw everything. Order matters
+// for how different parts of the picture are layered.
+drawBackground();
+for (var i = 0; i < 100; i++) {
+  drawAllBubbles();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSeagrass();
+}
+for (var i = 0; i < 5; i++) {
+  drawAllSeaStars();
+}
+for (var i = 0; i < 4; i++) {
+  drawAllFish();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSunbeams();
+}
+for (var i = 0; i < 20; i++) {
+  face();
+}
+
+// To do: Repeatedly draw sea grass
+function drawAllSeagrass(){
+  for (var i = 0; i < 50; i++) {
+    moveTo(randomNumber(0,320),450);
+    turnTo(0);
+    drawSeagrass(randomNumber(5,20), randomNumber(2, 10));
+  }
+}
+
+// To do: Repeatedly draw sea stars
+function drawAllSeaStars(){
+  moveTo(randomNumber(0,320), randomNumber(360,450));
+  drawSeaStar(randomNumber(10,30));
+}
+
+// To do: Repeatedly draw fish
+function drawAllFish(){
+  for (var i = 0; i < 10; i++) {
+    moveTo(randomNumber(0,320),randomNumber(0,300));
+    drawFish(randomNumber(5,20),randomNumber(200,255),randomNumber(100,150),120);
+  }
+}
+
+// To do: Repeatedly draw bubbles
+function drawAllBubbles(){
+  moveTo(randomNumber(0,320),randomNumber(0,450));
+  for (var i = 0; i < 200; i++) {
+    drawBubble();
+  }
+}
+
+// To do: Repeatedly draw sunbeams
+function drawAllSunbeams(){
+  for (var i = 0; i < 100; i++) {
+    moveTo(randomNumber(-50,320),0);
+    turnTo(randomNumber(165,175));
+    drawSunbeam(randomNumber(100,400));
+  }
+}
+
+// Make the background by drawing a large blue dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five-pointed star with a wide pen of the given size
+function drawSeaStar(size){
+  for (var i = 0; i < 30; i++) {
+    penRGB(255,0,255);
+    penWidth(10);
+    penDown();
+    turnTo(0);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    penUp();
+  }
+}
+
+// Switches between left and right arcs to make seaGrass with the given radius
+function drawSeagrass(radius, numWaves){
+  penRGB(0,randomNumber(100,200),0);
+  penWidth(3);
+  penDown();
+  arcLeft(30,radius);
+
+  // Repeatedly switch between left and right
+  for(var i = 0; i < numWaves; i++){
+    arcRight(60,radius);
+    arcLeft(60,radius);
+  }
+  penUp();
+}
+
+// Draws a fish at the current turtle location with the given size and color
+function drawFish(size, red, green, blue){
+  penRGB(red,green,blue);
+  penWidth(size);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+// Bubbles are semi-transparent dots
+function drawBubble(size){
+  penRGB(100,100,255,0.007);
+  dot(randomNumber(1, 7));
+}
+
+// Sunbeams are semi-transparent lines
+function drawSunbeam(size){
+  penDown();
+  penWidth(randomNumber(1,15));
+  penRGB(255,255,255,0.1);
+  moveForward(size);
+  penUp();
+}
+
+function face() {
+  moveTo(randomNumber(0, 320), randomNumber(320, 450));
+  turnTo(0);
+  penColor("yellow");
+  dot(20);
+  moveForward(8);
+  turnLeft(90);
+  moveForward(10);
+  penColor("black");
+  dot(5);
+  turnRight(180);
+  moveForward(20);
+  dot(5);
+  turnRight(90);
+  moveForward(15);
+  penWidth(3);
+  penDown();
+  arcRight(180, 10);
+  penUp();
+}
+
+(10)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// These six functions draw everything. Order matters
+// for how different parts of the picture are layered.
+drawBackground();
+for (var i = 0; i < 100; i++) {
+  drawAllBubbles();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSeagrass();
+}
+for (var i = 0; i < 5; i++) {
+  drawAllSeaStars();
+}
+for (var i = 0; i < 4; i++) {
+  drawAllFish();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSunbeams();
+}
+for (var i = 0; i < 20; i++) {
+  face();
+}
+
+// To do: Repeatedly draw sea grass
+function drawAllSeagrass(){
+  for (var i = 0; i < 50; i++) {
+    moveTo(randomNumber(0,320),450);
+    turnTo(0);
+    drawSeagrass(randomNumber(5,20), randomNumber(2, 10));
+  }
+}
+
+// To do: Repeatedly draw sea stars
+function drawAllSeaStars(){
+  moveTo(randomNumber(0,320), randomNumber(360,450));
+  drawSeaStar(randomNumber(10,30));
+}
+
+// To do: Repeatedly draw fish
+function drawAllFish(){
+  for (var i = 0; i < 10; i++) {
+    moveTo(randomNumber(0,320),randomNumber(0,300));
+    drawFish(randomNumber(5,20),randomNumber(200,255),randomNumber(100,150),120);
+  }
+}
+
+// To do: Repeatedly draw bubbles
+function drawAllBubbles(){
+  moveTo(randomNumber(0,320),randomNumber(0,450));
+  for (var i = 0; i < 200; i++) {
+    drawBubble();
+  }
+}
+
+// To do: Repeatedly draw sunbeams
+function drawAllSunbeams(){
+  for (var i = 0; i < 100; i++) {
+    moveTo(randomNumber(-50,320),0);
+    turnTo(randomNumber(165,175));
+    drawSunbeam(randomNumber(100,400));
+  }
+}
+
+// Make the background by drawing a large blue dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five-pointed star with a wide pen of the given size
+function drawSeaStar(size){
+  for (var i = 0; i < 30; i++) {
+    penRGB(255,0,255);
+    penWidth(10);
+    penDown();
+    turnTo(0);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    penUp();
+  }
+}
+
+// Switches between left and right arcs to make seaGrass with the given radius
+function drawSeagrass(radius, numWaves){
+  penRGB(0,randomNumber(100,200),0);
+  penWidth(3);
+  penDown();
+  arcLeft(30,radius);
+
+  // Repeatedly switch between left and right
+  for(var i = 0; i < numWaves; i++){
+    arcRight(60,radius);
+    arcLeft(60,radius);
+  }
+  penUp();
+}
+
+// Draws a fish at the current turtle location with the given size and color
+function drawFish(size, red, green, blue){
+  penRGB(red,green,blue);
+  penWidth(size);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+// Bubbles are semi-transparent dots
+function drawBubble(size){
+  penRGB(100,100,255,0.007);
+  dot(randomNumber(1, 7));
+}
+
+// Sunbeams are semi-transparent lines
+function drawSunbeam(size){
+  penDown();
+  penWidth(randomNumber(1,15));
+  penRGB(255,255,255,0.1);
+  moveForward(size);
+  penUp();
+}
+
+function face() {
+  moveTo(randomNumber(0, 320), randomNumber(320, 450));
+  turnTo(0);
+  penColor("yellow");
+  dot(20);
+  moveForward(8);
+  turnLeft(90);
+  moveForward(10);
+  penColor("black");
+  dot(5);
+  turnRight(180);
+  moveForward(20);
+  dot(5);
+  turnRight(90);
+  moveForward(15);
+  penWidth(3);
+  penDown();
+  arcRight(180, 10);
+  penUp();
+}
+(11)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// These six functions draw everything. Order matters
+// for how different parts of the picture are layered.
+drawBackground();
+for (var i = 0; i < 100; i++) {
+  drawAllBubbles();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSeagrass();
+}
+for (var i = 0; i < 5; i++) {
+  drawAllSeaStars();
+}
+for (var i = 0; i < 4; i++) {
+  drawAllFish();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSunbeams();
+}
+for (var i = 0; i < 20; i++) {
+  face();
+}
+
+// To do: Repeatedly draw sea grass
+function drawAllSeagrass(){
+  for (var i = 0; i < 50; i++) {
+    moveTo(randomNumber(0,320),450);
+    turnTo(0);
+    drawSeagrass(randomNumber(5,20), randomNumber(2, 10));
+  }
+}
+
+// To do: Repeatedly draw sea stars
+function drawAllSeaStars(){
+  moveTo(randomNumber(0,320), randomNumber(360,450));
+  drawSeaStar(randomNumber(10,30));
+}
+
+// To do: Repeatedly draw fish
+function drawAllFish(){
+  for (var i = 0; i < 10; i++) {
+    moveTo(randomNumber(0,320),randomNumber(0,300));
+    drawFish(randomNumber(5,20),randomNumber(200,255),randomNumber(100,150),120);
+  }
+}
+
+// To do: Repeatedly draw bubbles
+function drawAllBubbles(){
+  moveTo(randomNumber(0,320),randomNumber(0,450));
+  for (var i = 0; i < 200; i++) {
+    drawBubble();
+  }
+}
+
+// To do: Repeatedly draw sunbeams
+function drawAllSunbeams(){
+  for (var i = 0; i < 100; i++) {
+    moveTo(randomNumber(-50,320),0);
+    turnTo(randomNumber(165,175));
+    drawSunbeam(randomNumber(100,400));
+  }
+}
+
+// Make the background by drawing a large blue dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five-pointed star with a wide pen of the given size
+function drawSeaStar(size){
+  for (var i = 0; i < 30; i++) {
+    penRGB(255,0,255);
+    penWidth(10);
+    penDown();
+    turnTo(0);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    penUp();
+  }
+}
+
+// Switches between left and right arcs to make seaGrass with the given radius
+function drawSeagrass(radius, numWaves){
+  penRGB(0,randomNumber(100,200),0);
+  penWidth(3);
+  penDown();
+  arcLeft(30,radius);
+
+  // Repeatedly switch between left and right
+  for(var i = 0; i < numWaves; i++){
+    arcRight(60,radius);
+    arcLeft(60,radius);
+  }
+  penUp();
+}
+
+// Draws a fish at the current turtle location with the given size and color
+function drawFish(size, red, green, blue){
+  penRGB(red,green,blue);
+  penWidth(size);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+// Bubbles are semi-transparent dots
+function drawBubble(size){
+  penRGB(100,100,255,0.007);
+  dot(randomNumber(1, 7));
+}
+
+// Sunbeams are semi-transparent lines
+function drawSunbeam(size){
+  penDown();
+  penWidth(randomNumber(1,15));
+  penRGB(255,255,255,0.1);
+  moveForward(size);
+  penUp();
+}
+
+function face() {
+  moveTo(randomNumber(0, 320), randomNumber(320, 450));
+  turnTo(0);
+  penColor("yellow");
+  dot(20);
+  moveForward(8);
+  turnLeft(90);
+  moveForward(10);
+  penColor("black");
+  dot(5);
+  turnRight(180);
+  moveForward(20);
+  dot(5);
+  turnRight(90);
+  moveForward(15);
+  penWidth(3);
+  penDown();
+  arcRight(180, 10);
+  penUp();
+}
+
+(12)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// These six functions draw everything. Order matters
+// for how different parts of the picture are layered.
+drawBackground();
+for (var i = 0; i < 100; i++) {
+  drawAllBubbles();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSeagrass();
+}
+for (var i = 0; i < 5; i++) {
+  drawAllSeaStars();
+}
+for (var i = 0; i < 4; i++) {
+  drawAllFish();
+}
+for (var i = 0; i < 1; i++) {
+  drawAllSunbeams();
+}
+for (var i = 0; i < 20; i++) {
+  face();
+}
+
+// To do: Repeatedly draw sea grass
+function drawAllSeagrass(){
+  for (var i = 0; i < 50; i++) {
+    moveTo(randomNumber(0,320),450);
+    turnTo(0);
+    drawSeagrass(randomNumber(5,20), randomNumber(2, 10));
+  }
+}
+
+// To do: Repeatedly draw sea stars
+function drawAllSeaStars(){
+  moveTo(randomNumber(0,320), randomNumber(360,450));
+  drawSeaStar(randomNumber(10,30));
+}
+
+// To do: Repeatedly draw fish
+function drawAllFish(){
+  for (var i = 0; i < 10; i++) {
+    moveTo(randomNumber(0,320),randomNumber(0,300));
+    drawFish(randomNumber(5,20),randomNumber(200,255),randomNumber(100,150),120);
+  }
+}
+
+// To do: Repeatedly draw bubbles
+function drawAllBubbles(){
+  moveTo(randomNumber(0,320),randomNumber(0,450));
+  for (var i = 0; i < 200; i++) {
+    drawBubble();
+  }
+}
+
+// To do: Repeatedly draw sunbeams
+function drawAllSunbeams(){
+  for (var i = 0; i < 100; i++) {
+    moveTo(randomNumber(-50,320),0);
+    turnTo(randomNumber(165,175));
+    drawSunbeam(randomNumber(100,400));
+  }
+}
+
+// Make the background by drawing a large blue dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five-pointed star with a wide pen of the given size
+function drawSeaStar(size){
+  for (var i = 0; i < 30; i++) {
+    penRGB(255,0,255);
+    penWidth(10);
+    penDown();
+    turnTo(0);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    moveForward(size);
+    turnRight(144);
+    penUp();
+  }
+}
+
+// Switches between left and right arcs to make seaGrass with the given radius
+function drawSeagrass(radius, numWaves){
+  penRGB(0,randomNumber(100,200),0);
+  penWidth(3);
+  penDown();
+  arcLeft(30,radius);
+
+  // Repeatedly switch between left and right
+  for(var i = 0; i < numWaves; i++){
+    arcRight(60,radius);
+    arcLeft(60,radius);
+  }
+  penUp();
+}
+
+// Draws a fish at the current turtle location with the given size and color
+function drawFish(size, red, green, blue){
+  penRGB(red,green,blue);
+  penWidth(size);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+// Bubbles are semi-transparent dots
+function drawBubble(size){
+  penRGB(100,100,255,0.007);
+  dot(randomNumber(1, 7));
+}
+
+// Sunbeams are semi-transparent lines
+function drawSunbeam(size){
+  penDown();
+  penWidth(randomNumber(1,15));
+  penRGB(255,255,255,0.1);
+  moveForward(size);
+  penUp();
+}
+
+function face() {
+  moveTo(randomNumber(0, 320), randomNumber(320, 450));
+  turnTo(0);
+  penColor("yellow");
+  dot(20);
+  moveForward(8);
+  turnLeft(90);
+  moveForward(10);
+  penColor("black");
+  dot(5);
+  turnRight(180);
+  moveForward(20);
+  dot(5);
+  turnRight(90);
+  moveForward(15);
+  penWidth(3);
+  penDown();
+  arcRight(180, 10);
+  penUp();
+}

@@ -1,0 +1,11 @@
+\\spazio\profili_studenti$\5bitepi09\documents\visual studio 2012\Projects\SenderUDP\SenderUDP\bin\Debug\SenderUDP.exe.config
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\SenderUDP\SenderUDP\bin\Debug\SenderUDP.exe.config
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\SenderUDP\SenderUDP\bin\Debug\SenderUDP.exe
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\SenderUDP\SenderUDP\bin\Debug\SenderUDP.pdb
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\SenderUDP\SenderUDP\obj\Debug\SenderUDP.csprojAssemblyReference.cache
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\SenderUDP\SenderUDP\obj\Debug\SenderUDP.csproj.CoreCompileInputs.cache
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\SenderUDP\SenderUDP\obj\Debug\SenderUDP.exe
+C:\Users\matti\OneDrive\Documenti\Visual Studio 2017\Projects\SenderUDP\SenderUDP\obj\Debug\SenderUDP.pdb
+\\spazio\profili_studenti$\5BITEPI13\Downloads\SenderUDP\SenderUDP\bin\Debug\SenderUDP.exe.config
+\\spazio\profili_studenti$\5BITEPI13\Downloads\SenderUDP\SenderUDP\obj\Debug\SenderUDP.exe
+\\spazio\profili_studenti$\5BITEPI13\Downloads\SenderUDP\SenderUDP\obj\Debug\SenderUDP.pdb

@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="PongProject.login"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PongProject"
+             mc:Ignorable="d" 
+             >
+    <Grid Name="grid_login">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="23*"/>
+            <RowDefinition Height="75*"/>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="50*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Label Foreground="#FFFFFEFE" Name="Registration" Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left" Content="Registration:" Margin="20,0,0,69" FontSize="16" FontFamily="Segoe UI Black" FontStyle="Italic" Height="31" Width="112"/>
+        <Label Foreground="#FFFFFEFE" Name="Username" Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left" Content="Username:" Margin="10,68,0,3" FontSize="14" Height="29" Width="75"/>
+        <TextBox Foreground="#FFFFFEFE" Name="tb_username" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Width="190" Margin="81,75,0,7" Grid.ColumnSpan="2" Height="18" Background="Black" BorderBrush="White"/>
+
+        <Label Foreground="#FFFFFEFE" Name="password" Grid.Column="0" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left" Content="Password:" Margin="10,21,0,48" FontSize="14" Height="29" Width="71"/>
+        
+
+        <Button Foreground="#FFFFFEFE" Name="bt_login" Content="Login" Grid.Column="1" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center" Width="100" Height="50" Click="Bt_login_Click" Margin="12,0,13,0" Background="Black" BorderBrush="White"/>
+
+        <Button Foreground="#FFFFFEFE" Name="bt_register" Content="Register" Grid.Column="0" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center" Width="100" Height="50" Click="Bt_register_Click" Margin="28,0" Background="Black" BorderBrush="White"/>
+        <PasswordBox Foreground="#FFFFFEFE" Name="tb_password" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Width="190" Margin="81,28,0,52" Grid.ColumnSpan="2" Height="18" Background="Black" BorderBrush="White"/>
+    </Grid>
+</UserControl>

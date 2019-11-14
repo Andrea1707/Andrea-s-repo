@@ -1,0 +1,7 @@
+C:\Users\Alessandro\source\repos\tcp superenalottoo\tcp superenalottoo\bin\Debug\tcp superenalottoo.exe.config
+C:\Users\Alessandro\source\repos\tcp superenalottoo\tcp superenalottoo\bin\Debug\tcp superenalottoo.exe
+C:\Users\Alessandro\source\repos\tcp superenalottoo\tcp superenalottoo\bin\Debug\tcp superenalottoo.pdb
+C:\Users\Alessandro\source\repos\tcp superenalottoo\tcp superenalottoo\obj\Debug\tcp superenalottoo.csprojAssemblyReference.cache
+C:\Users\Alessandro\source\repos\tcp superenalottoo\tcp superenalottoo\obj\Debug\tcp superenalottoo.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\tcp superenalottoo\tcp superenalottoo\obj\Debug\tcp superenalottoo.exe
+C:\Users\Alessandro\source\repos\tcp superenalottoo\tcp superenalottoo\obj\Debug\tcp superenalottoo.pdb

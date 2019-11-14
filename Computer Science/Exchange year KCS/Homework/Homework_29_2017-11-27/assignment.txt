@@ -1,0 +1,13 @@
+Homework#29 for 2017-11-20,  due 2017-11-27, end of day
+
+Code.org creating function for the turtle programming with their "App Lab" language
+
+https://studio.code.org/s/csp3/stage/5/puzzle/1
+
+When your program is complete, click on the middle-right button "</> show text".
+Copy your program code into a file in your student repo.
+
+Review the included file "ap-csp-student-task-directions.pdf" on pages 9-11. This
+describes the Performance Task that will need to be turned into the College
+Board website Digital Portfolio area as part of your AP test credit. For now,
+just familiarize yourself with the requirements described in the *.pdf

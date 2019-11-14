@@ -1,0 +1,897 @@
+(1)penUp();
+moveTo(150,200);
+drawSquare(100);
+moveTo(100,350);
+drawSquare(25);
+
+function drawSquare(size){
+  penDown();
+  moveForward(size);
+  turnRight(90);
+  moveForward(size);
+  turnRight(90);
+  moveForward(size);
+  turnRight(90);
+  moveForward(size);
+  turnRight(90);
+  penUp();
+}
+
+(2)penUp();
+moveTo(150,200);
+drawSquare(100);
+moveTo(100,350);
+drawSquare(25);
+
+function drawSquare(size){
+  penDown();
+  moveForward(size);
+  turnRight(90);
+  moveForward(size);
+  turnRight(90);
+  moveForward(size);
+  turnRight(90);
+  moveForward(size);
+  turnRight(90);
+  penUp();
+}
+
+(3)penUp();
+moveTo(150,150);
+drawSquare(80, 7);
+moveTo(250,300);
+drawSquare(30, 12);
+
+function drawSquare(size, borderWidth){
+  penDown();
+  penWidth(borderWidth);
+  moveForward(size);
+  turnLeft();
+  moveForward(size);
+  turnLeft();
+  moveForward(size);
+  turnLeft();
+  moveForward(size);
+  penUp();
+}
+
+(4)penUp();
+moveTo(150,111);
+drawTriangle(150,6);
+moveTo(279,240);
+drawTriangle(200,12);
+
+function drawTriangle(size, width) {
+  penDown();
+  penWidth(width);
+  turnLeft(120);
+  moveForward(size);
+  turnLeft(120);
+  moveForward(size);
+  turnLeft(120);
+  moveForward(size);
+  penUp();
+}
+
+(5)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// First draw the background
+drawBackground();
+
+//Draw all the starfish
+moveTo(150,400);
+drawStarfish(randomNumber(0, 50));
+moveTo(50, 420);
+drawStarfish(randomNumber(0, 50));
+moveTo(270, 390);
+drawStarfish(randomNumber(0, 50));
+
+// Draw all the seagrass on bottom of screen
+moveTo(50,450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(250, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(290, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+
+//Draw all the fish
+moveTo(150,80);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(250, 150);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(170, 200);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+
+// Make the background by drawing a large dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five pointed star with a wide pen.
+function drawStarfish(size){
+  // Setting up the pen
+  penRGB(255,0,255);
+  penWidth(20);
+  penDown();
+
+  turnTo(0);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  penUp();
+}
+
+// Switches between left and right arcs to make sea grass
+function drawSeagrass(size){
+  // Setting up the pen
+  penRGB(0,255,0);
+  penWidth(10);
+  penDown();
+
+  // Draw four arcs to make grass
+  arcLeft(30,size);
+  arcRight(60,size);
+  arcLeft(60,size);
+  arcRight(60,size);
+
+  penUp();
+}
+
+// Draw a single fish at current turtle location
+function drawFish(size){
+  // Setting up the pen
+  penWidth(30);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+(6)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// First draw the background
+drawBackground();
+
+//Draw all the starfish
+moveTo(150,400);
+drawStarfish(randomNumber(0, 50));
+moveTo(50, 420);
+drawStarfish(randomNumber(0, 50));
+moveTo(270, 390);
+drawStarfish(randomNumber(0, 50));
+
+// Draw all the seagrass on bottom of screen
+moveTo(50,450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(250, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(290, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+
+//Draw all the fish
+moveTo(150,80);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(250, 150);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(170, 200);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+
+// Make the background by drawing a large dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five pointed star with a wide pen.
+function drawStarfish(size){
+  // Setting up the pen
+  penRGB(255,0,255);
+  penWidth(20);
+  penDown();
+
+  turnTo(0);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  penUp();
+}
+
+// Switches between left and right arcs to make sea grass
+function drawSeagrass(size){
+  // Setting up the pen
+  penRGB(0,255,0);
+  penWidth(10);
+  penDown();
+
+  // Draw four arcs to make grass
+  arcLeft(30,size);
+  arcRight(60,size);
+  arcLeft(60,size);
+  arcRight(60,size);
+
+  penUp();
+}
+
+// Draw a single fish at current turtle location
+function drawFish(size){
+  // Setting up the pen
+  penWidth(30);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+(7)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// First draw the background
+drawBackground();
+
+//Draw all the starfish
+moveTo(150,400);
+drawStarfish(randomNumber(0, 50));
+moveTo(50, 420);
+drawStarfish(randomNumber(0, 50));
+moveTo(270, 390);
+drawStarfish(randomNumber(0, 50));
+
+// Draw all the seagrass on bottom of screen
+moveTo(50,450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(250, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(290, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+
+//Draw all the fish
+moveTo(150,80);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(250, 150);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(170, 200);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+
+// Make the background by drawing a large dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five pointed star with a wide pen.
+function drawStarfish(size){
+  // Setting up the pen
+  penRGB(255,0,255);
+  penWidth(20);
+  penDown();
+
+  turnTo(0);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  penUp();
+}
+
+// Switches between left and right arcs to make sea grass
+function drawSeagrass(size){
+  // Setting up the pen
+  penRGB(0,255,0);
+  penWidth(10);
+  penDown();
+
+  // Draw four arcs to make grass
+  arcLeft(30,size);
+  arcRight(60,size);
+  arcLeft(60,size);
+  arcRight(60,size);
+
+  penUp();
+}
+
+// Draw a single fish at current turtle location
+function drawFish(size){
+  // Setting up the pen
+  penWidth(30);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+(8)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// First draw the background
+drawBackground();
+
+//Draw all the starfish
+moveTo(150,400);
+drawStarfish(randomNumber(0, 50));
+moveTo(50, 420);
+drawStarfish(randomNumber(0, 50));
+moveTo(270, 390);
+drawStarfish(randomNumber(0, 50));
+
+// Draw all the seagrass on bottom of screen
+moveTo(50,450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(250, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(290, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+
+//Draw all the fish
+moveTo(150,80);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(250, 150);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(170, 200);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+
+// Make the background by drawing a large dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five pointed star with a wide pen.
+function drawStarfish(size){
+  // Setting up the pen
+  penRGB(255,0,255);
+  penWidth(20);
+  penDown();
+
+  turnTo(0);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  penUp();
+}
+
+// Switches between left and right arcs to make sea grass
+function drawSeagrass(size){
+  // Setting up the pen
+  penRGB(0,255,0);
+  penWidth(10);
+  penDown();
+
+  // Draw four arcs to make grass
+  arcLeft(30,size);
+  arcRight(60,size);
+  arcLeft(60,size);
+  arcRight(60,size);
+
+  penUp();
+}
+
+// Draw a single fish at current turtle location
+function drawFish(size){
+  // Setting up the pen
+  penWidth(30);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+(9)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// First draw the background
+drawBackground();
+
+//Draw all the starfish
+moveTo(150,400);
+drawStarfish(randomNumber(0, 50));
+moveTo(50, 420);
+drawStarfish(randomNumber(0, 50));
+moveTo(270, 390);
+drawStarfish(randomNumber(0, 50));
+
+// Draw all the seagrass on bottom of screen
+moveTo(50,450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(250, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(290, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+
+//Draw all the fish
+moveTo(150,80);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(250, 150);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(170, 200);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+
+// Make the background by drawing a large dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five pointed star with a wide pen.
+function drawStarfish(size){
+  // Setting up the pen
+  penRGB(255,0,255);
+  penWidth(20);
+  penDown();
+
+  turnTo(0);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  penUp();
+}
+
+// Switches between left and right arcs to make sea grass
+function drawSeagrass(size){
+  // Setting up the pen
+  penRGB(0,255,0);
+  penWidth(10);
+  penDown();
+
+  // Draw four arcs to make grass
+  arcLeft(30,size);
+  arcRight(60,size);
+  arcLeft(60,size);
+  arcRight(60,size);
+
+  penUp();
+}
+
+// Draw a single fish at current turtle location
+function drawFish(size){
+  // Setting up the pen
+  penWidth(30);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+(10)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// First draw the background
+drawBackground();
+
+//Draw all the starfish
+moveTo(150,400);
+drawStarfish(randomNumber(0, 50));
+moveTo(50, 420);
+drawStarfish(randomNumber(0, 50));
+moveTo(270, 390);
+drawStarfish(randomNumber(0, 50));
+
+// Draw all the seagrass on bottom of screen
+moveTo(50,450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(250, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(290, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+
+//Draw all the fish
+moveTo(150,80);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(250, 150);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(170, 200);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+
+// Make the background by drawing a large dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five pointed star with a wide pen.
+function drawStarfish(size){
+  // Setting up the pen
+  penRGB(255,0,255);
+  penWidth(20);
+  penDown();
+
+  turnTo(0);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  penUp();
+}
+
+// Switches between left and right arcs to make sea grass
+function drawSeagrass(size){
+  // Setting up the pen
+  penRGB(0,255,0);
+  penWidth(10);
+  penDown();
+
+  // Draw four arcs to make grass
+  arcLeft(30,size);
+  arcRight(60,size);
+  arcLeft(60,size);
+  arcRight(60,size);
+
+  penUp();
+}
+
+// Draw a single fish at current turtle location
+function drawFish(size){
+  // Setting up the pen
+  penWidth(30);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+(11)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// First draw the background
+drawBackground();
+
+//Draw all the starfish
+moveTo(150,400);
+drawStarfish(randomNumber(0, 50));
+moveTo(50, 420);
+drawStarfish(randomNumber(0, 50));
+moveTo(270, 390);
+drawStarfish(randomNumber(0, 50));
+
+// Draw all the seagrass on bottom of screen
+moveTo(50,450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(250, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(290, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+
+//Draw all the fish
+moveTo(150,80);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(250, 150);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(170, 200);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+
+// Make the background by drawing a large dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five pointed star with a wide pen.
+function drawStarfish(size){
+  // Setting up the pen
+  penRGB(255,0,255);
+  penWidth(20);
+  penDown();
+
+  turnTo(0);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  penUp();
+}
+
+// Switches between left and right arcs to make sea grass
+function drawSeagrass(size){
+  // Setting up the pen
+  penRGB(0,255,0);
+  penWidth(10);
+  penDown();
+
+  // Draw four arcs to make grass
+  arcLeft(30,size);
+  arcRight(60,size);
+  arcLeft(60,size);
+  arcRight(60,size);
+
+  penUp();
+}
+
+// Draw a single fish at current turtle location
+function drawFish(size){
+  // Setting up the pen
+  penWidth(30);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}
+
+(12)// Prepare Turtle to Draw
+hide();
+penUp();
+
+// First draw the background
+drawBackground();
+
+//Draw all the starfish
+moveTo(150,400);
+drawStarfish(randomNumber(0, 50));
+moveTo(50, 420);
+drawStarfish(randomNumber(0, 50));
+moveTo(270, 390);
+drawStarfish(randomNumber(0, 50));
+
+// Draw all the seagrass on bottom of screen
+moveTo(50,450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(250, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+moveTo(290, 450);
+turnTo(0);
+drawSeagrass(randomNumber(0, 50));
+
+//Draw all the fish
+moveTo(150,80);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(250, 150);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+moveTo(170, 200);
+penRGB(randomNumber(0, 255), randomNumber(0, 255), randomNumber(0, 255), 1);
+drawFish(randomNumber(0, 50));
+
+// Make the background by drawing a large dot
+function drawBackground(){
+  penColor("DarkBlue");
+  dot(1000);
+}
+
+// Draw a five pointed star with a wide pen.
+function drawStarfish(size){
+  // Setting up the pen
+  penRGB(255,0,255);
+  penWidth(20);
+  penDown();
+
+  turnTo(0);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  moveForward(size);
+  turnRight(144);
+  penUp();
+}
+
+// Switches between left and right arcs to make sea grass
+function drawSeagrass(size){
+  // Setting up the pen
+  penRGB(0,255,0);
+  penWidth(10);
+  penDown();
+
+  // Draw four arcs to make grass
+  arcLeft(30,size);
+  arcRight(60,size);
+  arcLeft(60,size);
+  arcRight(60,size);
+
+  penUp();
+}
+
+// Draw a single fish at current turtle location
+function drawFish(size){
+  // Setting up the pen
+  penWidth(30);
+  penDown();
+
+  // Fish body
+  dot(size);
+  turnTo(90);
+  moveForward(size);
+
+  // Fish tail
+  turnLeft(30);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+  moveForward(size);
+  turnRight(120);
+
+  penUp();
+}

@@ -1,0 +1,8 @@
+AA 555 AA,Ferrari,La Ferrari,Rossa,Ferrario Andrea;
+BB 000 BB,Bugatti,Veiron,Blu,Ferrario Andrea;
+CCC 444 CCC,BMW,i8,Elettric blue,Ferrario Andrea;
+DDD 567 DDD,FIAT,500,Blue italy,Gianni Nikolas;
+HHH 999 HHH,FIAT,Panda,Arancione,Ferrario Marco;
+JJJ 777 JJJ,Volksvagen,Golf,Nero,Carollo Monica;
+YYY 000 YYY,Volvo,XC90,Grigio,Ferrario Massimo;
+KKK 087 KKK,Volvo,C30,Nero,Carollo Monica;

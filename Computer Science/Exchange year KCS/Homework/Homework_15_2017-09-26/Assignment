@@ -1,0 +1,21 @@
+Complete the text encoding described in the included bw_image_representation.pdf
+
+For each question, include in your answer file the image encoded like this:
+
+EXAMPLE Question:
+
+0,2,1,2,1,2
+0,1,2,2,2,1
+3,2
+3,2
+3,2
+
+
+
+EXAMPLE Answer:
+
+OO OO OO
+O  OO  O
+   OO
+   OO
+   OO

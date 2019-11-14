@@ -1,0 +1,46 @@
+Spectre (security vulnerability)
+Overview:
+Spectre is a vulnerability that affects modern microprocessors that perform branch prediction.
+
+  What is the branch prediction?
+  In computer architecture, a branch predictor is a digital circuit that tries to guess which way a branch
+  will go before this is known definitively. The purpose of the branch predictor is to
+  improve the flow in the instruction pipeline. Branch predictors play a critical role in achieving high effective performance
+  in many modern pipelined microprocessor architectures such as x86.
+
+
+
+On most processors, the speculative execution resulting from a branch misprediction may leave observable side effects that may
+reveal private data to attackers. For example, if the pattern of memory accesses performed by such speculative execution depends
+on private data, the resulting state of the data cache constitutes a side channel through which an attacker may be able to extract
+information about the private data using a timing attack.
+
+  What is a timing attack?
+  In cryptography, a timing attack is a side channel attack in which the attacker attempts to compromise a cryptosystem by analyzing
+  the time taken to execute cryptographic algorithms. Every logical operation in a computer takes time to execute, and the time can
+  differ based on the input; with precise measurements of the time for each operation, an attacker can work backwards to the input.
+
+The Spectre bug was used in the Meltdown attack.
+  Meltdown breaks the most fundamental isolation between user applications and the operating system.
+  This attack allows a program to access the memory, and thus also the secrets, of other programs and
+  the operating system.
+
+  Whose data was lost / stolen / leaked? How many people / organizations were affected?
+
+  We don't know yet if some virus or malware used this bug for stole data. We know all computer has this vulnerability.
+
+How and How to Prevent
+  Keep your OS always at the last version because the CPU companies and OS companies has been releasing update for fix this problem.
+
+Data Specifics:
+  it could be stole data like a password, credit card, personal information ecc..
+
+Data Privacy / Security / Storage Concern:
+
+An a Software programmer (Michael Schwarz) has developed a malware for show the Spectre bug using the Meltdown attack. (Video)
+
+Sources:
+https://www.theregister.co.uk/2018/01/04/intel_amd_arm_cpu_vulnerability/
+https://meltdownattack.com
+https://blog.malwarebytes.com/security-world/2018/01/meltdown-and-spectre-what-you-need-to-know/
+https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)

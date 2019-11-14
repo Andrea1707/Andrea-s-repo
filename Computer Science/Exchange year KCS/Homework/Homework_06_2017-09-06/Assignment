@@ -1,0 +1,27 @@
+Homework#6 for 2017-09-05,  due 2017-09-06
+
+Computer Science Illuminated
+- read pages 717-723 (read as needed based on your existing knowledge)
+- read pages 741-743 network addresses (VERY IMPORTANT)
+
+On page 755, question #1-6
+
+Question: True/False, are these valid IP addresses?
+
+a) 192.168.1.1
+b) 255.255.255.1
+c) 192.300.10.5
+d) 10.10.0.10
+e) 256.100.20.35
+f) 34.56.999.3
+g) 1.1.1.1
+h) 0.0.0.260
+i) 2.2.2.2
+j) 0.0.0.0
+k) 255.255.255.255
+
+Question: Short answer
+
+f) What is the domain name of your KCS school?
+g) If your computer is named for your real last name, what is the
+   Fully Qualified Domain Name (FQDN) when added the the school domain name?

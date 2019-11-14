@@ -1,0 +1,22 @@
+﻿<Window x:Class="PongProject.game"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PongProject"
+        mc:Ignorable="d" Name="game_pong"
+        Background="Orange"
+        Title="game" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" KeyDown="Game_OnKeyDown" WindowStyle="None" WindowState="Maximized" Visibility="Visible" AllowsTransparency="True" Width="1920">
+    <DockPanel>
+        <Canvas Name="MainCanvas" Background="Black">
+
+            <Rectangle Name="left" Height="100" Width="20" Fill="#fb9415" Canvas.Top="{Binding LeftPadPosition}"/>
+            <Rectangle Name="right" Height="100" Width="20" Fill="#fb9415" Canvas.Top="{Binding RightPadPosition}" Canvas.Left="1660"/>
+            <Line Name="line" X1="400" X2="400" Y2="500" Y1="1" StrokeThickness="2" Stroke="#fb9415"/>
+            <Ellipse Width="20" Height="20" Canvas.Left="{Binding BallXPosition}" Canvas.Top="{Binding BallYPosition}" StrokeThickness="0.1" Fill="#EEEEEE"/>
+
+            <Label Name="left_result" Canvas.Left="349" Canvas.Top="35" Content="{Binding LeftResult}" Height="auto" FontSize="40" Foreground="#EEEEEE"/>
+            <Label Name="right_result" Canvas.Left="857" Canvas.Top="35" Content="{Binding RightResult}" Height="auto" FontSize="40" Foreground="#EEEEEE"/>
+        </Canvas>
+    </DockPanel>
+</Window>

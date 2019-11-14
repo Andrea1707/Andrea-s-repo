@@ -1,0 +1,22 @@
+Homework#27 for 2017-11-14,  due 2017-11-16, end of day
+
+In class, we'll add a very basic machine language to the card activities
+
+Complete the activity in the included pdf
+"Activity Guide - The Human Machine Language.pdf"
+
+Submit your answers as a text file in your student repo. Do not print out
+the pdf and complete it that way. The instructions ask you to cut the paper
+and paste commands. Instead, just enter your solution in a txt file.
+
+Complete the activity in the included pdf
+"Activity Guide - Human Machine Language - Part 2_ Min-to-Front.pdf"
+
+Just complete the Challenge - Min to front. You don't have to do the optional task.
+Submit your answer as a text file in your student repo.
+
+Also:
+
+Computer Science Illuminated
+- read pages 178-185 (these are PDF pages 285-293)
+- No homework questions

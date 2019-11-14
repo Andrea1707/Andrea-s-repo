@@ -1,0 +1,44 @@
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\bin\Debug\iTunes 1.0.exe.config
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\bin\Debug\iTunes 1.0.exe
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\bin\Debug\iTunes 1.0.pdb
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0.csprojAssemblyReference.cache
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\Add.g.cs
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\Home.g.cs
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\Song_item.g.cs
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\App.g.cs
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0_MarkupCompile.cache
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0_MarkupCompile.lref
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\Add.baml
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\Home.baml
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\MainWindow.baml
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\Song_item.baml
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0.g.resources
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes_1._0.Properties.Resources.resources
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0.csproj.GenerateResource.cache
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0.exe
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0.pdb
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\bin\Debug\iTunes 1.0.exe.config
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\bin\Debug\iTunes 1.0.exe
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\bin\Debug\iTunes 1.0.pdb
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0.csprojAssemblyReference.cache
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\Add.g.cs
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\Home.g.cs
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\MainWindow.g.cs
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\Song_item.g.cs
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\App.g.cs
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0_MarkupCompile.cache
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0_MarkupCompile.lref
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\Add.baml
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\Home.baml
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\MainWindow.baml
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\Song_item.baml
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0.g.resources
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes_1._0.Properties.Resources.resources
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0.csproj.GenerateResource.cache
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0.exe
+C:\Users\Alessandro\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0.pdb
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\Andrea\source\repos\iTunes 1.0\iTunes 1.0\obj\Debug\iTunes 1.0.csproj.ResolveComReference.cache
