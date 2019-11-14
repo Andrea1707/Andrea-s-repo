@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab6Esercizio2",
+            "request": "launch",
+            "mainClass": "Lab6Esercizio2",
+            "projectName": "Lab6Esercizio2_db1c5c90"
+        }
+    ]
+}

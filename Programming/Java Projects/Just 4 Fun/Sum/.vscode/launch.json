@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "Sum_48739f77"
+        }
+    ]
+}
