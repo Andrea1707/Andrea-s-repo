@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab6Esercizio1",
+            "request": "launch",
+            "mainClass": "Lab6Esercizio1",
+            "projectName": "Andrea-s-repo_49bfd79a"
+        }
+    ]
+}
