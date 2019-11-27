@@ -4,6 +4,12 @@
             "type": "java",
             "name": "CodeLens (Launch) - Lab6Esercizio1",
             "request": "launch",
+            "mainClass": "Lab6Esercizio1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab6Esercizio1",
+            "request": "launch",
             "mainClass": "Lab6Esercizio1",
             "projectName": "Lab6Esercizio1_d56e40cf"
         },
