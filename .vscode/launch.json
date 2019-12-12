@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Program",
+            "request": "launch",
+            "mainClass": "Program"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Lab6Esercizio1",
             "request": "launch",
             "mainClass": "Lab6Esercizio1",
